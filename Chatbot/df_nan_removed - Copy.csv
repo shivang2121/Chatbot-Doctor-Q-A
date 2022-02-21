@@ -1,0 +1,1855 @@
+,SYMPTOM INPUTS,QUESTIONS ASKED,OPTIONS GIVEN
+0,Abdominal pain,Abdominal pain: when did it start?  ,Abdominal pain
+1,Abdominal pain,Abdominal pain: select the area you feel pain using diagram,today
+2,Abdominal pain,Abdominal pain: select the area you feel pain using diagram, in the last week
+3,Abdominal pain,Abdominal pain: select the area you feel pain using diagram, in last month
+4,Abdominal pain,Abdominal pain: select the area you feel pain using diagram, 1-3 month ago
+5,Abdominal pain,Abdominal pain: select the area you feel pain using diagram, over 3 months ago
+6,Abdominal pain,Abdominal pain: select the area you feel pain using diagram, year ago
+7,Abdominal pain,Abdominal pain: which side is bothering you?, point at diagram
+8,Abdominal pain,Abdominal pain: what makes it worse?, right
+9,Abdominal pain,Abdominal pain: what makes it worse?, left
+10,Abdominal pain,Abdominal pain: what makes it worse?, both sides
+11,Abdominal pain,Abdominal pain: what makes it worse?, i am not sure
+12,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, changing position
+13,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, cough
+14,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, eating
+15,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, deep breathing
+16,Abdominal pain,Abdominal pain: do you think any of these triggers pain?,  exposure to cold
+17,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, going to bathroom
+18,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, hunger
+19,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, lying down
+20,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, physical activity
+21,Abdominal pain,Abdominal pain: do you think any of these triggers pain?,pressing on area
+22,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, sitting down
+23,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, standing
+24,Abdominal pain,Abdominal pain: do you think any of these triggers pain?, walking
+25,Abdominal pain,Abdominal pain: how uncomfortable do you feel?, dairy intake
+26,Abdominal pain,Abdominal pain: how uncomfortable do you feel?, eating suspect food
+27,Abdominal pain,Abdominal pain: how uncomfortable do you feel?, going to bathroom
+28,Abdominal pain,Abdominal pain: how uncomfortable do you feel?, intercourse
+29,Abdominal pain,Abdominal pain: how uncomfortable do you feel?, possible food allergy
+30,Abdominal pain,Abdominal pain: how uncomfortable do you feel?, recent childbirth
+31,Abdominal pain,Abdominal pain: how uncomfortable do you feel?, recent surgery
+32,Abdominal pain,Abdominal pain: how uncomfortable do you feel?, recent injury
+33,Abdominal pain,Abdominal pain: how uncomfortable do you feel?, eating gluten
+34,Abdominal pain,Abdominal pain: how uncomfortable do you feel?, none of above
+35,Abdominal pain,Abdominal pain: do any of these describe it?, fairly mild
+36,Abdominal pain,Abdominal pain: do any of these describe it?, intense
+37,Abdominal pain,Abdominal pain: do any of these describe it?, wakes me at night
+38,Abdominal pain,Abdominal pain: do any of these describe it?, not sure
+39,Abdominal pain,Abdominal pain: do any of these relieve your pain?,  beltlike
+40,Abdominal pain,Abdominal pain: do any of these relieve your pain?, burning
+41,Abdominal pain,Abdominal pain: do any of these relieve your pain?, colicky
+42,Abdominal pain,Abdominal pain: do any of these relieve your pain?, crampy
+43,Abdominal pain,Abdominal pain: do any of these relieve your pain?, pinpoint
+44,Abdominal pain,Abdominal pain: do any of these relieve your pain?, sharp
+45,Abdominal pain,Abdominal pain: do any of these relieve your pain?, stabbing
+46,Abdominal pain,Abdominal pain: do any of these relieve your pain?, vague
+47,Abdominal pain,Abdominal pain: do any of these relieve your pain?, none of these 
+48,Abdominal pain,Abdominal pain: does your pain moves to any of these area?, drinking fluids
+49,Abdominal pain,Abdominal pain: does your pain moves to any of these area?, eating
+50,Abdominal pain,Abdominal pain: does your pain moves to any of these area?, eliminating dairy product
+51,Abdominal pain,Abdominal pain: does your pain moves to any of these area?, going to bathroom
+52,Abdominal pain,Abdominal pain: does your pain moves to any of these area?, lying down
+53,Abdominal pain,Abdominal pain: does your pain moves to any of these area?, resting
+54,Abdominal pain,Abdominal pain: does your pain moves to any of these area?, stretching
+55,Abdominal pain,Abdominal pain: does your pain moves to any of these area?, none of these
+56,Abdominal pain,Abdominal pain: did it start gradually or suddenly?, chest
+57,Abdominal pain,Abdominal pain: did it start gradually or suddenly?, back
+58,Abdominal pain,Abdominal pain: did it start gradually or suddenly?, groin
+59,Abdominal pain,Abdominal pain: did it start gradually or suddenly?, legs
+60,Abdominal pain,Abdominal pain: did it start gradually or suddenly?, thigh
+61,Abdominal pain,Abdominal pain: did it start gradually or suddenly?, none of these
+62,Abdominal pain,Abdominal pain: Can youthink of another related symptoms?, suddenly
+63,Abdominal pain,Abdominal pain: Can youthink of another related symptoms?, gradually
+64,Abdominal pain,Abdominal pain: Can youthink of another related symptoms?, not sure
+65,Abdominal pain,Abdominal pain: Are your stools loose or watery?, yes
+66,Abdominal pain,Abdominal pain: Are your stools loose or watery?, no
+67,Abdominal pain,Abdominal pain: How constipated are you?, yes
+68,Abdominal pain,Abdominal pain: How constipated are you?, no
+69,Abdominal pain,Abdominal pain: Do you have burning sensation or pain after peeing?,  mild
+70,Abdominal pain,Abdominal pain: Do you have burning sensation or pain after peeing?, severe
+71,Abdominal pain,Abdominal pain: Do you have burning sensation or pain after peeing?, not sure
+72,Abdominal pain,Abdominal pain: Do you have abdominal surgery in past?, yes
+73,Abdominal pain,Abdominal pain: Do you have abdominal surgery in past?, no
+74,Abdominal pain,Abdominal pain: are you more gassy than usual?, yes
+75,Abdominal pain,Abdominal pain: are you more gassy than usual?, no
+76,Abdominal pain,"Abdominal pain: does you abdomen feels bloated, swollen or large than usual?", yes
+77,Abdominal pain,"Abdominal pain: does you abdomen feels bloated, swollen or large than usual?", no
+78,Abdominal pain,Abdominal pain: have you been diagnosed with type  diabetes?, yes
+79,Abdominal pain,Abdominal pain: have you been diagnosed with type  diabetes?, no
+,,,
+,,,
+,,,
+,,,
+,,,
+85,Abdominal pain,Abdominal pain: is there anything else you can share?(symptoms), decreased apetite
+86,Abdominal pain,Abdominal pain: is there anything else you can share?(symptoms), blood in stool
+87,Abdominal pain,Abdominal pain: is there anything else you can share?(symptoms), vomiting
+88,Abdominal redness,Abdominal redness: when did it start?  ,Abdominal redness
+89,Abdominal redness,Abdominal redness: Can you think of another related symptoms?, Today
+90,Abdominal redness,Abdominal redness: Can you think of another related symptoms?, in the last week
+91,Abdominal redness,Abdominal redness: Can you think of another related symptoms?, in last month
+92,Abdominal redness,Abdominal redness: Can you think of another related symptoms?, 1-3 month ago
+93,Abdominal redness,Abdominal redness: Can you think of another related symptoms?, over 3 months ago
+94,Abdominal redness,Abdominal redness: Can you think of another related symptoms?, year ago
+95,Abdominal redness,Abdominal redness: Do have pain or discomfort in your abdomen?, yes
+96,Abdominal redness,Abdominal redness: Do have pain or discomfort in your abdomen?, no
+97,Abdominal redness,Abdominal redness: Select the area where you feel pain in the diagram, yes
+98,Abdominal redness,Abdominal redness: Select the area where you feel pain in the diagram, no
+99,Abdominal redness,Abdominal redness: which side is bothering you?, point at diagram
+100,Abdominal redness,Abdominal redness: What makes it worse?  ,  right
+101,Abdominal redness,Abdominal redness: What makes it worse?  , left
+102,Abdominal redness,Abdominal redness: What makes it worse?  , both sides
+103,Abdominal redness,Abdominal redness: What makes it worse?  , i am not sure
+104,Abdominal redness,Abdominal redness: how uncomfortable do you feel?, changing position
+105,Abdominal redness,Abdominal redness: how uncomfortable do you feel?, cough
+106,Abdominal redness,Abdominal redness: how uncomfortable do you feel?, eating
+107,Abdominal redness,Abdominal redness: how uncomfortable do you feel?, deep breathing
+108,Abdominal redness,Abdominal redness: how uncomfortable do you feel?, 
+109,Abdominal redness,Abdominal redness: do you think any of these triggers pain?,   exposure to cold
+110,Abdominal redness,Abdominal redness: do you think any of these triggers pain?, going to bathroom
+111,Abdominal redness,Abdominal redness: do you think any of these triggers pain?, hunger
+112,Abdominal redness,Abdominal redness: do you think any of these triggers pain?, lying down
+114,Abdominal redness,Abdominal redness: Are your stools loose or watery?,   physical activity
+115,Abdominal redness,Abdominal redness: Are your stools loose or watery?,pressing on area
+116,Abdominal redness,Abdominal redness: Are your stools loose or watery?, sitting down
+117,Abdominal redness,Abdominal redness: Are your stools loose or watery?, standing
+119,Abdominal redness,Abdominal redness: do any of these describe your diarrhea?,   walking
+120,Abdominal redness,Abdominal redness: did any of these cause your diarrhea?, fairly mild
+121,Abdominal redness,Abdominal redness: did any of these cause your diarrhea?, intense
+122,Abdominal redness,Abdominal redness: did any of these cause your diarrhea?, wakes me at night
+123,Abdominal redness,Abdominal redness: did any of these cause your diarrhea?, not sure
+124,Abdominal redness,Abdominal redness: Are you constipated?, dairy intake
+125,Abdominal redness,Abdominal redness: Are you constipated?, eating suspect food
+126,Abdominal redness,Abdominal redness: Are you constipated?, going to bathroom
+127,Abdominal redness,Abdominal redness: Are you constipated?, 
+128,Abdominal redness,Abdominal redness: Burning or painful urination?,   intercourse
+129,Abdominal redness,Abdominal redness: Burning or painful urination?, possible food allergy
+130,Abdominal redness,Abdominal redness: Burning or painful urination?, recent childbirth
+131,Abdominal redness,Abdominal redness: Burning or painful urination?, 
+132,Abdominal redness,Abdominal redness: how severe would you say it is?,   recent surgery
+133,Abdominal redness,Abdominal redness: how severe would you say it is?, recent injury
+134,Abdominal redness,Abdominal redness: how severe would you say it is?, eating gluten
+135,Abdominal redness,Abdominal redness: how severe would you say it is?, none of above
+136,Abdominal redness,"Abdominal redness: is it getting better, worse, or staying the same?", yes 
+137,Abdominal redness,"Abdominal redness: is it getting better, worse, or staying the same?", no
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+153,Abdominal redness,Abdominal redness: Do you smoke?, yes
+154,Abdominal redness,Abdominal redness: Do you smoke?, no
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+166,Abdominal redness,Abdominal redness:, teary or watery eyes
+167,Abdominal redness,Abdominal redness:, fever
+168,Abdominal redness,Abdominal redness:, runny nose
+169,Abdominal redness,Abdominal redness:, none of these
+170,Abdominal redness,Abdominal redness:, groin pain
+171,Abdominal redness,Abdominal redness:, groin swelling
+172,Abdominal redness,Abdominal redness:, vomoting
+173,Abdominal redness,Abdominal redness:, none of these
+174,Abdominal redness,Abdominal redness:, Abdominal swelling
+175,Abdominal redness,Abdominal redness:, nausea
+176,Abdominal redness,Abdominal redness:, none of above
+177,Abdominal redness,Abdominal redness:, yes
+178,Abdominal redness,Abdominal redness:, no
+179,Abdominal redness,Abdominal redness:, i used to but i quit
+180,Abdominal redness,Abdominal redness:,  leg redness
+181,Abdominal redness,Abdominal redness:, skin lesions
+182,Abdominal redness,Abdominal redness:, foot swelling
+183,Abdominal redness,Abdominal redness:, none of these
+184,Abdominal redness,Abdominal redness:,  warm skin
+185,Abdominal redness,Abdominal redness:, insect bite
+186,Abdominal redness,Abdominal redness:, calf swelling
+187,Abdominal redness,Abdominal redness:, none of these
+188,Abdominal redness,Abdominal redness:, 
+231,Abdominal swelling ,"Abdominal swelling : If you are sexually active, have you recently engaged in unprotected sexual intercourse/", Mild
+232,Abdominal swelling ,"Abdominal swelling : If you are sexually active, have you recently engaged in unprotected sexual intercourse/", severe
+233,Abdominal swelling ,"Abdominal swelling : If you are sexually active, have you recently engaged in unprotected sexual intercourse/", I am not sure
+352,Abdominal swelling ,Abdominal swelling :, 
+385,Abnormal sweating,"Abnormal sweating: do you have pain, pressure or discomfort in your chest?", improving
+386,Abnormal sweating,"Abnormal sweating: do you have pain, pressure or discomfort in your chest?", worsening
+387,Abnormal sweating,"Abnormal sweating: do you have pain, pressure or discomfort in your chest?", it's about the same
+388,Abnormal sweating,"Abnormal sweating: do you have pain, pressure or discomfort in your chest?", i am not sure
+389,Abnormal sweating,"Abnormal sweating: are you feeling anxious, worried or fearful in a way that impacts your daily activities?", Yes
+390,Abnormal sweating,"Abnormal sweating: are you feeling anxious, worried or fearful in a way that impacts your daily activities?", no
+434,Abnormal sweating,"Abnormal sweating: does your heart race, flutter or skip beats while you're at rest?", yes
+435,Abnormal sweating,"Abnormal sweating: does your heart race, flutter or skip beats while you're at rest?", no
+496,Acne,Acne: when did it start?,Acne
+497,Acne,Acne: where is your acne located?, today
+498,Acne,Acne: where is your acne located?, in last week
+499,Acne,Acne: where is your acne located?, in last month
+500,Acne,Acne: where is your acne located?, 1-3 months
+501,Acne,Acne: where is your acne located?, over 3 months
+502,Acne,Acne: are your periods irregular?, Forehead
+503,Acne,Acne: are your periods irregular?, face
+504,Acne,Acne: are your periods irregular?, neck
+505,Acne,Acne: are your periods irregular?, chest
+506,Acne,Acne: are your periods irregular?, back
+507,Acne,Acne: are your periods irregular?, whole body
+508,Acne,Acne: do you have rash anywhere in your body?, yes
+509,Acne,Acne: do you have rash anywhere in your body?, no
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+561,Anal pain,Anal pain: when did it start?,Anal pain
+562,Anal pain,Anal pain: did any of these trigger your anal pain?, today
+563,Anal pain,Anal pain: did any of these trigger your anal pain?, in last week
+564,Anal pain,Anal pain: did any of these trigger your anal pain?, in last month
+565,Anal pain,Anal pain: did any of these trigger your anal pain?, 1-3 months
+566,Anal pain,Anal pain: did any of these trigger your anal pain?, over 3 months
+567,Anal pain,Anal pain: how severe would you say it is?, going to the bathroom
+568,Anal pain,Anal pain: how severe would you say it is?, intercourse
+569,Anal pain,Anal pain: how severe would you say it is?, recent surgery
+570,Anal pain,Anal pain: how severe would you say it is?, recent injury
+571,Anal pain,Anal pain: how severe would you say it is?, none of these
+572,Anal pain,"Anal pain: is it getting better, worse, the same, i am not sure  ", mild
+573,Anal pain,"Anal pain: is it getting better, worse, the same, i am not sure  ", severe
+574,Anal pain,"Anal pain: is it getting better, worse, the same, i am not sure  ", it wakes me at night
+575,Anal pain,"Anal pain: is it getting better, worse, the same, i am not sure  ", i am not sure
+576,Anal pain,Anal pain: is there blood in your stool?, improving
+577,Anal pain,Anal pain: is there blood in your stool?, worsening
+578,Anal pain,Anal pain: is there blood in your stool?, the same
+579,Anal pain,Anal pain: is there blood in your stool?, i am not sure 
+580,Anal pain,Anal pain: do you have swelling aorund your anus?, yes
+581,Anal pain,Anal pain: do you have swelling aorund your anus?,no
+582,Anal pain,Anal pain: are you constipated?, yes
+583,Anal pain,Anal pain: are you constipated?,no 
+584,Anal pain,Anal pain: did any of these trigger your constipation?, yes
+585,Anal pain,Anal pain: did any of these trigger your constipation?,no
+586,Anal pain,Anal pain: how constipated are you?, pregnancy
+587,Anal pain,Anal pain: how constipated are you?, recent injury
+588,Anal pain,Anal pain: how constipated are you?, recent surgery
+589,Anal pain,Anal pain: how constipated are you?, none of these  
+590,Anal pain,Anal pain: do you have pain on defecation?, mild
+591,Anal pain,Anal pain: do you have pain on defecation?, severe
+592,Anal pain,Anal pain: do you have pain on defecation?, i am not sure
+593,Anal pain,Anal pain: have you been diagnosed with ischemic heart disease?, yes
+594,Anal pain,Anal pain: have you been diagnosed with ischemic heart disease?, no
+,,,
+,,,
+,,,
+,,,
+,,,
+600,Anal pain,Anal pain: is the skin over your joint is red?, diarrhea
+601,Anal pain,Anal pain: is the skin over your joint is red?, weight loss
+602,Anal pain,Anal pain: is the skin over your joint is red?, joint pain
+603,Anal pain,Anal pain: are your joints unusually stiff in the morning?, yes
+604,Anal pain,Anal pain: are your joints unusually stiff in the morning?, no
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+624,Anhedonia ,"Anhedonia : is it getting better, worse, or staying the same?",Anhedonia 
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+747,Anxiety,"Anxiety: is it getting better, worse or staying the same? ", somewhat anxious
+748,Anxiety,"Anxiety: is it getting better, worse or staying the same? ", very anxious
+749,Anxiety,"Anxiety: is it getting better, worse or staying the same? ", i can't sleep at night
+750,Anxiety,"Anxiety: is it getting better, worse or staying the same? ", i am not sure   
+819,Anxiety,"Anxiety: do you have pain, pressure or discomfort in your chest?", yes
+820,Anxiety,"Anxiety: do you have pain, pressure or discomfort in your chest?", no
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+1071,Arm pain,"Arm pain: is it getting better, worse or staying the same?", over time
+1072,Arm pain,"Arm pain: is it getting better, worse or staying the same?", suddenly
+1073,Arm pain,"Arm pain: is it getting better, worse or staying the same?", i am not sure  
+1074,Arm pain,"Arm pain: do you get the sensation of numbness, tingling, or prickling in your hands? ", improving
+1075,Arm pain,"Arm pain: do you get the sensation of numbness, tingling, or prickling in your hands? ", worsening
+1076,Arm pain,"Arm pain: do you get the sensation of numbness, tingling, or prickling in your hands? ", the same
+1077,Arm pain,"Arm pain: do you get the sensation of numbness, tingling, or prickling in your hands? ", i am not sure  
+,,,
+,,,
+,,,
+,,,
+1191,Arm swelling ,Arm swelling : when did it start?,Arm swelling 
+1192,Arm swelling ,Arm swelling : when do you notice the swelling?, today
+1193,Arm swelling ,Arm swelling : when do you notice the swelling?, last week
+1194,Arm swelling ,Arm swelling : when do you notice the swelling?, last month
+1195,Arm swelling ,Arm swelling : when do you notice the swelling?, 1-3 months ago
+1196,Arm swelling ,Arm swelling : when do you notice the swelling?, over 3 months ago
+1197,Arm swelling ,Arm swelling : is one arm swollen or are both?,  forearm
+1198,Arm swelling ,Arm swelling : is one arm swollen or are both?, wrist
+1199,Arm swelling ,Arm swelling : is one arm swollen or are both?, entire hand
+1200,Arm swelling ,Arm swelling : is one arm swollen or are both?, fingers
+1201,Arm swelling ,Arm swelling : is one arm swollen or are both?, none of these  
+1202,Arm swelling ,Arm swelling : did any of these trigger your arm swelling?, one both
+1203,Arm swelling ,Arm swelling : did any of these trigger your arm swelling?, both arm
+1204,Arm swelling ,Arm swelling : did any of these trigger your arm swelling?, i am not sure  
+1205,Arm swelling ,"Arm swelling : is it getting better, worse, or staying the same? ", insect bite
+1206,Arm swelling ,"Arm swelling : is it getting better, worse, or staying the same? ", recent injury
+1207,Arm swelling ,"Arm swelling : is it getting better, worse, or staying the same? ", recent injury
+1208,Arm swelling ,"Arm swelling : is it getting better, worse, or staying the same? ", none of these  
+1209,Arm swelling ,"Arm swelling : is your leg or any part of leg swollen, puffy or enlarged? ", improving
+1210,Arm swelling ,"Arm swelling : is your leg or any part of leg swollen, puffy or enlarged? ", worsening
+1211,Arm swelling ,"Arm swelling : is your leg or any part of leg swollen, puffy or enlarged? ", the same
+1212,Arm swelling ,"Arm swelling : is your leg or any part of leg swollen, puffy or enlarged? ", i am not sure  
+1213,Arm swelling ,"Arm swelling : are either of your calves swollen, puffy or enlarged? ", yes
+1214,Arm swelling ,"Arm swelling : are either of your calves swollen, puffy or enlarged? ", no 
+1215,Arm swelling ,Arm swelling : do you have pain in your calf? , yes
+1216,Arm swelling ,Arm swelling : do you have pain in your calf? , no  
+1217,Arm swelling ,Arm swelling : where does it hurt? , yes
+1218,Arm swelling ,Arm swelling : where does it hurt? , no 
+1219,Arm swelling ,Arm swelling : does one calf hurt or do both hurt? , front of the calf
+1220,Arm swelling ,Arm swelling : does one calf hurt or do both hurt? , top of the calf
+1221,Arm swelling ,Arm swelling : does one calf hurt or do both hurt? , bottom of calf
+1222,Arm swelling ,Arm swelling : does one calf hurt or do both hurt? , back of calf
+1223,Arm swelling ,Arm swelling : does one calf hurt or do both hurt? , side of calf
+1224,Arm swelling ,Arm swelling : does one calf hurt or do both hurt? , none of these 
+1225,Arm swelling ,Arm swelling : could any of these have triggered your symptoms? , one calf
+1226,Arm swelling ,Arm swelling : could any of these have triggered your symptoms? , both calfs
+1227,Arm swelling ,Arm swelling : could any of these have triggered your symptoms? , i am not sure  
+1228,Arm swelling ,Arm swelling : do any of these activities make your calf pain worse? , recent travel
+1229,Arm swelling ,Arm swelling : do any of these activities make your calf pain worse? , pregnancy
+1230,Arm swelling ,Arm swelling : do any of these activities make your calf pain worse? , recent injury
+1231,Arm swelling ,Arm swelling : do any of these activities make your calf pain worse? , none of these
+1232,Arm swelling ,Arm swelling : how severe is the pain?, changing positions
+1233,Arm swelling ,Arm swelling : how severe is the pain?, climbing stairs
+1234,Arm swelling ,Arm swelling : how severe is the pain?, lying down
+1235,Arm swelling ,Arm swelling : how severe is the pain?, sitting down
+1236,Arm swelling ,Arm swelling : how severe is the pain?, standing
+1237,Arm swelling ,Arm swelling : how severe is the pain?, walking
+1238,Arm swelling ,Arm swelling : how severe is the pain?, none of these 
+1239,Arm swelling ,"Arm swelling : do you have pain, pressure or discomfort in your chest? ", mild
+1240,Arm swelling ,"Arm swelling : do you have pain, pressure or discomfort in your chest? ", severe
+1241,Arm swelling ,"Arm swelling : do you have pain, pressure or discomfort in your chest? ", it wakes me at night
+1242,Arm swelling ,"Arm swelling : do you have pain, pressure or discomfort in your chest? ", none of these 
+1243,Arm swelling ,Arm swelling : do you have trouble breathing or catching your breath? , yes
+1244,Arm swelling ,Arm swelling : do you have trouble breathing or catching your breath? , no 
+1245,Arm swelling ,Arm swelling : do you have pain anywhere in your legs? , yes
+1246,Arm swelling ,Arm swelling : do you have pain anywhere in your legs? , no 
+1247,Arm swelling ,Arm swelling : do you have fever? , yes
+1248,Arm swelling ,Arm swelling : do you have fever? , no 
+1249,Arm swelling ,Arm swelling : did any of these trigger your fever? , yes
+1250,Arm swelling ,Arm swelling : did any of these trigger your fever? , no 
+1251,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , dental procedure
+1252,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , recent travel
+1253,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , heat or sun exposure
+1254,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , pregnancy
+1255,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , recent surgery
+1256,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , recent vaccination
+1257,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , none of these 
+1258,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , leg redness
+1259,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , skin lesions
+1260,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , foot swelling none of these 
+1261,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , warm skin on leg
+1262,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , insect bite
+1263,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , warm skin on arm
+1264,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , none of these 
+1265,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , foot redness
+1266,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , finger pain
+1267,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , hand redness
+1268,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , none of these  
+1269,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , armpit swelling
+1270,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , rash
+1271,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , foot pain
+1272,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , none of these  
+1273,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , hand pain
+1274,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , itchy skin
+1275,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , varicose veins
+1276,Arm swelling ,Arm swelling : are currently experiencing any of the following symptoms? , none of these  
+1303,Arm weakness,"Arm weakness: do you get the sensation of numbness, tingling or prickling in your hands? ", yes
+1304,Arm weakness,"Arm weakness: do you get the sensation of numbness, tingling or prickling in your hands? ", no 
+,,,
+,,,
+,,,
+,,,
+1377,Armpit pain,Armpit pain: when did it start? ,Armpit pain
+1378,Armpit pain,Armpit pain: does one armpit hurt or do both hurt? , today
+1379,Armpit pain,Armpit pain: does one armpit hurt or do both hurt? , in last week
+1380,Armpit pain,Armpit pain: does one armpit hurt or do both hurt? , in last month
+1381,Armpit pain,Armpit pain: does one armpit hurt or do both hurt? , 1-3 months ago
+1382,Armpit pain,Armpit pain: does one armpit hurt or do both hurt? , over 3 months ago
+1383,Armpit pain,Armpit pain: how severe would you say it is? ,  one armpit
+1384,Armpit pain,Armpit pain: how severe would you say it is? , both armpit
+1385,Armpit pain,Armpit pain: how severe would you say it is? , i am not sure 
+1386,Armpit pain,"Armpit pain: is it getting better, worse or staying the same? ", mild
+1387,Armpit pain,"Armpit pain: is it getting better, worse or staying the same? ", severe
+1388,Armpit pain,"Armpit pain: is it getting better, worse or staying the same? ", it wakes me at night
+1389,Armpit pain,"Armpit pain: is it getting better, worse or staying the same? ", i am not sure 
+1390,Armpit pain,Armpit pain: what makes it worse?  , improving
+1391,Armpit pain,Armpit pain: what makes it worse?  , worsening
+1392,Armpit pain,Armpit pain: what makes it worse?  , the same
+1393,Armpit pain,Armpit pain: what makes it worse?  , i am not sure  
+1394,Armpit pain,Armpit pain: did any of these trigger your pain? , arm movement
+1395,Armpit pain,Armpit pain: did any of these trigger your pain? , cough
+1396,Armpit pain,Armpit pain: did any of these trigger your pain? , deep breathing
+1397,Armpit pain,Armpit pain: did any of these trigger your pain? , exercising
+1398,Armpit pain,Armpit pain: did any of these trigger your pain? , none of these  
+1399,Armpit pain,Armpit pain: is the pain readiating to the shoulder?  , insect bite
+1400,Armpit pain,Armpit pain: is the pain readiating to the shoulder?  , recent surgery
+1401,Armpit pain,Armpit pain: is the pain readiating to the shoulder?  , recent injury
+1402,Armpit pain,Armpit pain: is the pain readiating to the shoulder?  , none of these 
+1403,Armpit pain,Armpit pain: is it a stabbing type pain? , yes
+1404,Armpit pain,Armpit pain: is it a stabbing type pain? , no 
+1405,Armpit pain,Armpit pain: did it start gradually or suddenly?  , yes
+1406,Armpit pain,Armpit pain: did it start gradually or suddenly?  , no 
+1407,Armpit pain,Armpit pain: did you have pain in your breast? , suddenly
+1408,Armpit pain,Armpit pain: did you have pain in your breast? , gradually
+1409,Armpit pain,Armpit pain: did you have pain in your breast? , i am not sure  
+1410,Armpit pain,"Armpit pain: touching your neck, armpit and groin, can feel any soft, round, pea sized nodes or lumps? ", yes
+1411,Armpit pain,"Armpit pain: touching your neck, armpit and groin, can feel any soft, round, pea sized nodes or lumps? ", no 
+1412,Armpit pain,Armpit pain: are you breastfeeding? , yes
+1413,Armpit pain,Armpit pain: are you breastfeeding? , no 
+1414,Armpit pain,Armpit pain: is your breast red? , yes
+1415,Armpit pain,Armpit pain: is your breast red? , no 
+1416,Armpit pain,"Armpit pain: does any part of your neck look swollen, puffy or enlarged? ", yes
+1417,Armpit pain,"Armpit pain: does any part of your neck look swollen, puffy or enlarged? ", no 
+1418,Armpit pain,Armpit pain: have you recently given birth? , yes
+1419,Armpit pain,Armpit pain: have you recently given birth? , no 
+1420,Armpit pain,Armpit pain: do you have a fever? , yes
+1421,Armpit pain,Armpit pain: do you have a fever? , no 
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+1475,Armpit pain,"Armpit pain: is it getting better, worse or staying the same? ", mild
+1476,Armpit pain,"Armpit pain: is it getting better, worse or staying the same? ", severe
+1477,Armpit pain,"Armpit pain: is it getting better, worse or staying the same? ", it wakes me at night
+1478,Armpit pain,"Armpit pain: is it getting better, worse or staying the same? ", i am not sure 
+1493,Armpit pain,"Armpit pain: touching your neck, armpit and groin, can feel any soft, round, pea sized nodes or lumps? ",  insect bite
+1494,Armpit pain,"Armpit pain: touching your neck, armpit and groin, can feel any soft, round, pea sized nodes or lumps? ", recent surgery
+1495,Armpit pain,"Armpit pain: touching your neck, armpit and groin, can feel any soft, round, pea sized nodes or lumps? ", recent injury
+1496,Armpit pain,"Armpit pain: touching your neck, armpit and groin, can feel any soft, round, pea sized nodes or lumps? ", none of these 
+1497,Armpit pain,"Armpit pain:  does any part of your neck look swollen, puffy or enlarged? ", suddenly
+1498,Armpit pain,"Armpit pain:  does any part of your neck look swollen, puffy or enlarged? ", gradually
+1499,Armpit pain,"Armpit pain:  does any part of your neck look swollen, puffy or enlarged? ", i am not sure   
+,,,
+,,,
+,,,
+,,,
+1516,Armpit swelling ,Armpit swelling : when did it start?,Armpit swelling 
+1517,Armpit swelling ,Armpit swelling : is this swelling painful? , today
+1518,Armpit swelling ,Armpit swelling : is this swelling painful? , in last week
+1519,Armpit swelling ,Armpit swelling : is this swelling painful? , in last month
+1520,Armpit swelling ,Armpit swelling : is this swelling painful? , 1-3 months ago
+1521,Armpit swelling ,Armpit swelling : is this swelling painful? , over 3 months ago 
+1522,Armpit swelling ,Armpit swelling : is one armpit swollen or are both? , yes
+1523,Armpit swelling ,Armpit swelling : is one armpit swollen or are both? , no 
+1524,Armpit swelling ,"Armpit swelling : is it getting better, worse or staying the same ", one armpit
+1525,Armpit swelling ,"Armpit swelling : is it getting better, worse or staying the same ", both armpits
+1526,Armpit swelling ,"Armpit swelling : is it getting better, worse or staying the same ", i am not sure  
+1527,Armpit swelling ,Armpit swelling : was your symptom triggered by a recent surgery? , improving
+1528,Armpit swelling ,Armpit swelling : was your symptom triggered by a recent surgery? , worsening
+1529,Armpit swelling ,Armpit swelling : was your symptom triggered by a recent surgery? , the same
+1530,Armpit swelling ,Armpit swelling : was your symptom triggered by a recent surgery? , i am not sure  
+1531,Armpit swelling ,Armpit swelling : do you have pain in your breast? , yes
+1532,Armpit swelling ,Armpit swelling : do you have pain in your breast? , no 
+1533,Armpit swelling ,"Armpit swelling : touching your neck, armpit, and groin can feel any soft, round, pea-sized nodes or lumps?", yes
+1534,Armpit swelling ,"Armpit swelling : touching your neck, armpit, and groin can feel any soft, round, pea-sized nodes or lumps?", no 
+1535,Armpit swelling ,Armpit swelling : are you breastfeeding? , yes
+1536,Armpit swelling ,Armpit swelling : are you breastfeeding? , no 
+1537,Armpit swelling ,"Armpit swelling : does any part of your neck look swollen, puffy or enlarged? ", yes
+1538,Armpit swelling ,"Armpit swelling : does any part of your neck look swollen, puffy or enlarged? ", no 
+1539,Armpit swelling ,Armpit swelling : is your breast red?  , yes
+1540,Armpit swelling ,Armpit swelling : is your breast red?  , no  
+1541,Armpit swelling ,Armpit swelling : which breast is red? , yes
+1542,Armpit swelling ,Armpit swelling : which breast is red? , no 
+1543,Armpit swelling ,Armpit swelling : did you recently give birth?      , one breast
+1544,Armpit swelling ,Armpit swelling : did you recently give birth?      , both breasts
+1545,Armpit swelling ,Armpit swelling : did you recently give birth?      , i am not sure  
+1546,Armpit swelling ,Armpit swelling : how severe would you say it is?, yes
+1547,Armpit swelling ,Armpit swelling : how severe would you say it is?, no 
+1548,Armpit swelling ,Armpit swelling : do you have fever? , mild
+1549,Armpit swelling ,Armpit swelling : do you have fever? , severe
+1550,Armpit swelling ,Armpit swelling : do you have fever? , i am not sure  
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+1582,Armpit swelling ,"Armpit swelling : is it getting better, worse, or staying the same? ", one armpit
+1583,Armpit swelling ,"Armpit swelling : is it getting better, worse, or staying the same? ", both armpits
+1584,Armpit swelling ,"Armpit swelling : is it getting better, worse, or staying the same? ", i am not sure
+1593,Armpit swelling ,"Armpit swelling : touching your neck, armpit, and groin can feel any soft, round, pea-sized nodes or lumps? ", yes
+1594,Armpit swelling ,"Armpit swelling : touching your neck, armpit, and groin can feel any soft, round, pea-sized nodes or lumps? ", no 
+1595,Armpit swelling ,"Armpit swelling : does any part of your neck looks swollen, puffy or enlarged? ", yes
+1596,Armpit swelling ,"Armpit swelling : does any part of your neck looks swollen, puffy or enlarged? ", no 
+,,,
+,,,
+,,,
+,,,
+1629,Attention deficit,"Attention deficit: are you feeling anxious, worried, or fearful in a way that impacts your daily activities? ", yes
+1630,Attention deficit,"Attention deficit: are you feeling anxious, worried, or fearful in a way that impacts your daily activities? ", no 
+1643,Attention deficit,"Attention deficit:  is it getting better, worse, or staying the same? ", somewhat anxious
+1644,Attention deficit,"Attention deficit:  is it getting better, worse, or staying the same? ", very anxious
+1645,Attention deficit,"Attention deficit:  is it getting better, worse, or staying the same? ", i can't sleep at night
+1646,Attention deficit,"Attention deficit:  is it getting better, worse, or staying the same? ", i am not sure  
+,,,
+,,,
+,,,
+,,,
+1733,Attention deficit,Attention deficit:,"							"
+1734,Back pain,Back pain: When did it start?,Back pain
+1735,Back pain,Back pain: Does your back pain radiate to any of these areas?, Today
+1736,Back pain,Back pain: Does your back pain radiate to any of these areas?, In the last week
+1737,Back pain,Back pain: Does your back pain radiate to any of these areas?, In the last month
+1738,Back pain,Back pain: Does your back pain radiate to any of these areas?, 1-3 months ago
+1739,Back pain,Back pain: Does your back pain radiate to any of these areas?, Over 3 months ago
+1740,Back pain,Back pain: Does your back pain radiate to any of these areas?, Years ago
+1741,Back pain,Back pain: Did any of these trigger your back pain?, Head
+1742,Back pain,Back pain: Did any of these trigger your back pain?, Hand or fingers
+1743,Back pain,Back pain: Did any of these trigger your back pain?, Arm
+1744,Back pain,Back pain: Did any of these trigger your back pain?, Chest
+1745,Back pain,Back pain: Did any of these trigger your back pain?, None of the above
+1746,Back pain,Back pain: Do any of these actions make your back pain worse?, Exposure to cold
+1747,Back pain,Back pain: Do any of these actions make your back pain worse?, Pregnancy
+1748,Back pain,Back pain: Do any of these actions make your back pain worse?, Recent injury
+1749,Back pain,Back pain: Do any of these actions make your back pain worse?, None of the above
+1750,Back pain,Back pain: Is your pain primarily on one side?, Changing positions
+1751,Back pain,Back pain: Is your pain primarily on one side?, Cough
+1752,Back pain,Back pain: Is your pain primarily on one side?, Deep breathing
+1753,Back pain,Back pain: Is your pain primarily on one side?, Leaning forward
+1754,Back pain,Back pain: Is your pain primarily on one side?, None of the above
+1755,Back pain,Back pain: How uncomfortable does it make you feel?, Yes it is
+1756,Back pain,Back pain: How uncomfortable does it make you feel?, No both sides hurt
+1757,Back pain,Back pain: How uncomfortable does it make you feel?, I'm not sure
+1758,Back pain,Back pain: Do any of these ease your pain?, Somewhat uncomfortable
+1759,Back pain,Back pain: Do any of these ease your pain?, Very uncomfortable
+1760,Back pain,Back pain: Do any of these ease your pain?, It wakes me at night
+1761,Back pain,Back pain: Do any of these ease your pain?, I'm not sure
+1762,Back pain,Back pain: Did your back pain start gradually?, Applying heat
+1763,Back pain,Back pain: Did your back pain start gradually?, Resting
+1764,Back pain,Back pain: Did your back pain start gradually?, Sitting down
+1765,Back pain,Back pain: Did your back pain start gradually?, Stretching
+1766,Back pain,Back pain: Did your back pain start gradually?, None of the above
+1767,Back pain,Back pain: Does any of these describe your pain?, Yes it did
+1768,Back pain,Back pain: Does any of these describe your pain?, No started suddenly
+1769,Back pain,Back pain: Does any of these describe your pain?, I'm not sure
+1770,Back pain,Back pain: Have you recently engaged in unprotected sexual intercourse?, Burning
+1771,Back pain,Back pain: Have you recently engaged in unprotected sexual intercourse?, Stabbing
+1772,Back pain,Back pain: Have you recently engaged in unprotected sexual intercourse?, Vague
+1773,Back pain,Back pain: Have you recently engaged in unprotected sexual intercourse?, None of the above
+1774,Back pain,"Back pain: Do you have pain, pressure or discomfort in your chest?", Yes/No
+1775,Back pain,Back pain: Do you have pain or discomfort in your abdomen?, Yes/No
+1776,Back pain,Back pain: Do you have a burning sensation or pain during or after peeing?, Yes/No
+1777,Back pain,Back pain: Do you have chills?, Yes/No 
+1778,Back pain,Back pain: Do you have a fever?, Yes/No
+1779,Back pain,Back pain: Do you have limited range of motion or pain when moving your neck?, Yes/No
+1780,Back pain,Back pain: Do you have blood in your urine? , Yes/No
+1781,Back pain,Back pain: Have you been vomiting?, Yes/No
+1782,Back pain,Back pain: Do you feel sick to your stomach (as if you might throw up)?, Yes/No
+1783,Back pain,Back pain: Do you need to urinate much more than usual?, Yes/No
+1784,Back pain,Back pain: Have you been significantly more tired than usual (despite getting enough sleep?), Yes/No
+1785,Back pain,Back pain: Do you smoke?, Yes/No
+,,,
+,,,
+,,,
+1789,Back pain,Back pain: Do you have rash anywhere on your body?, Lack of menstruation
+1790,Back pain,Back pain: Do you have rash anywhere on your body?, Heavy or prolonged period
+1791,Back pain,Back pain: Do you have rash anywhere on your body?, Vaginal bleeding
+1792,Back pain,Back pain: Do you have rash anywhere on your body?, None of the above
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+1806,Bad breath,Bad breath: When did it start?,Bad breath
+1807,Bad breath,Bad breath: Do you have a burning sensation in your chest or upper stomach?, Today
+1808,Bad breath,Bad breath: Do you have a burning sensation in your chest or upper stomach?, In the last week
+1809,Bad breath,Bad breath: Do you have a burning sensation in your chest or upper stomach?, In the last month
+1810,Bad breath,Bad breath: Do you have a burning sensation in your chest or upper stomach?, 1-3 months ago
+1811,Bad breath,Bad breath: Do you have a burning sensation in your chest or upper stomach?, Over 3 months ago
+1812,Bad breath,Bad breath: Do you have a burning sensation in your chest or upper stomach?, Years ago
+1813,Bad breath,Bad breath: Do any of these activities make your heartburn worse?, Yes/No
+1814,Bad breath,Bad breath: How severe would you say it is?, Eating
+1815,Bad breath,Bad breath: How severe would you say it is?, Lying down
+1816,Bad breath,Bad breath: How severe would you say it is?, Physical activity
+1817,Bad breath,Bad breath: How severe would you say it is?, None of the above
+1818,Bad breath,Bad breath: Did either of these trigger your heartburn? , Mild
+1819,Bad breath,Bad breath: Did either of these trigger your heartburn? , Severe
+1820,Bad breath,Bad breath: Did either of these trigger your heartburn? , It wakes me at night
+1821,Bad breath,Bad breath: Did either of these trigger your heartburn? , I'm not sure
+1822,Bad breath,Bad breath: Do you have a hard-to-remove white layer or patches on the upper surface of your tongue?, Eating in general
+1823,Bad breath,Bad breath: Do you have a hard-to-remove white layer or patches on the upper surface of your tongue?, Eating suspect food
+1824,Bad breath,Bad breath: Do you have a hard-to-remove white layer or patches on the upper surface of your tongue?, Recent injury
+1825,Bad breath,Bad breath: Do you have a hard-to-remove white layer or patches on the upper surface of your tongue?, None of the above
+,,,
+,,,
+,,,
+,,,
+,,,
+1831,Bad breath,Bad breath: Have you been diagnosed with high blood pressure by a doctor?, Cough
+1832,Bad breath,Bad breath: Have you been diagnosed with high blood pressure by a doctor?, Mouth sores
+1833,Bad breath,Bad breath: Have you been diagnosed with high blood pressure by a doctor?, Sore throat
+1834,Bad breath,Bad breath: Have you been diagnosed with high blood pressure by a doctor?, None of the above
+1835,Bad breath,Bad breath: Have you been diagnosed with Diabetes (Type ) by a doctor?, Yes/No
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+1854,Bad or bitter taste,Bad or bitter taste: When did it start? ,Bad or bitter taste
+1855,Bad or bitter taste,Bad or bitter taste: How bad is the taste?, Today
+1856,Bad or bitter taste,Bad or bitter taste: How bad is the taste?, In the last week
+1857,Bad or bitter taste,Bad or bitter taste: How bad is the taste?, In the last month
+1858,Bad or bitter taste,Bad or bitter taste: How bad is the taste?, 1-3 months ago
+1859,Bad or bitter taste,Bad or bitter taste: How bad is the taste?, Over 3 months ago
+1860,Bad or bitter taste,Bad or bitter taste: How bad is the taste?, Years ago
+1861,Bad or bitter taste,Bad or bitter taste: Do you have a burning sensation in your chest or upper stomach?, Mild
+1862,Bad or bitter taste,Bad or bitter taste: Do you have a burning sensation in your chest or upper stomach?, Severe
+1863,Bad or bitter taste,Bad or bitter taste: Do you have a burning sensation in your chest or upper stomach?, I'm not sure
+1864,Bad or bitter taste,Bad or bitter taste: Do you have a hard-to-remove white layer or patches on the upper surface of your tongue?, Yes/No
+1865,Bad or bitter taste,Bad or bitter taste: Is either half of your body drooping?, Yes/No
+1866,Bad or bitter taste,Bad or bitter taste: Are either of your eyelids drooping over your eye(s)?, Yes/No
+1867,Bad or bitter taste,"Bad or bitter taste: Does any part of your face feel numb, tingly or prickly?", Yes/No
+1868,Bad or bitter taste,Bad or bitter taste: Does your mouth or tongue hurt?, Yes/No
+1869,Bad or bitter taste,Bad or bitter taste: Do you have any ear pain?, Yes/No
+1870,Bad or bitter taste,Bad or bitter taste: Do you have sores or lesionson the inside of your mouth or on your lips?, Yes/No
+1871,Bad or bitter taste,Bad or bitter taste: Do you have pain or discomfort in your abdomen?, Yes/No
+1872,Bad or bitter taste,"Bad or bitter taste: Have you lost your voice (is your voice hoarse, raspy or strained)?", Yes/No
+1873,Bad or bitter taste,Bad or bitter taste: Do you have a cough?, Yes/No 
+1874,Bad or bitter taste,Bad or bitter taste: Do you have a sore throat?, Yes/No 
+,,,
+,,,
+,,,
+,,,
+,,,
+1880,Bad or bitter taste,Bad or bitter taste: Have you been diagnosed with ischemic heart disease (IHD) or coronary artey disease (CAD) by a physician?, Facial pain
+1881,Bad or bitter taste,Bad or bitter taste: Have you been diagnosed with ischemic heart disease (IHD) or coronary artey disease (CAD) by a physician?, Decreased hearing
+1882,Bad or bitter taste,Bad or bitter taste: Have you been diagnosed with ischemic heart disease (IHD) or coronary artey disease (CAD) by a physician?, Mouth dryness
+1883,Bad or bitter taste,Bad or bitter taste: Have you been diagnosed with ischemic heart disease (IHD) or coronary artey disease (CAD) by a physician?, None of the above
+,,,
+,,,
+,,,
+,,,
+,,,
+1890,Black stool,Black stool: When did it start?,Black stool
+1891,Black stool,Black stool: Do you have pain or discomfort in your abdomen?, Today
+1892,Black stool,Black stool: Do you have pain or discomfort in your abdomen?, In the last week
+1893,Black stool,Black stool: Do you have pain or discomfort in your abdomen?, In the last month
+1894,Black stool,Black stool: Do you have pain or discomfort in your abdomen?, 1-3 months ago
+1895,Black stool,Black stool: Do you have pain or discomfort in your abdomen?, Over 3 months ago
+1896,Black stool,Black stool: Do you have pain or discomfort in your abdomen?, Years ago
+1897,Black stool,Black stool: Are your stools loose or watery?, Yes/No
+1898,Black stool,Black stool: Do you have a burning sensation in your chest or upper stomach?, Yes/No
+1899,Black stool,Black stool: Have you been vomiting?, Yes/No
+1900,Black stool,Black stool: Do you feel sick to your stomach (as if you might throw up)?, Yes/No
+1901,Black stool,Black stool: Is there blood in your stool?, Yes/No
+1902,Black stool,Black stool: Do you have fever?, Yes/No
+1903,Black stool,Black stool: Have you been significantly more tired than usual (despite getting enough sleep)?, Yes/No
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+1926,Blood in stool,Blood in stool: When did it start?,Blood in stool
+1927,Blood in stool,Blood in stool: Did it start after going to the bathroom?, Today
+1928,Blood in stool,Blood in stool: Did it start after going to the bathroom?, In the last week
+1929,Blood in stool,Blood in stool: Did it start after going to the bathroom?, In the last month
+1930,Blood in stool,Blood in stool: Did it start after going to the bathroom?, 1-3 months ago
+1931,Blood in stool,Blood in stool: Did it start after going to the bathroom?, Over 3 months ago
+1932,Blood in stool,Blood in stool: how heavy is your rectal bleeding?, Yes/No
+1933,Blood in stool,"Blood in stool: Do you have any pain when sitting down, passing stool, or wiping?", Light bleeding
+1934,Blood in stool,"Blood in stool: Do you have any pain when sitting down, passing stool, or wiping?", Heavy bleeding
+1935,Blood in stool,"Blood in stool: Do you have any pain when sitting down, passing stool, or wiping?", I'm not sure
+1936,Blood in stool,Blood in stool: Did any of these trigger your anal pain?, Yes/No 
+1937,Blood in stool,Blood in stool: How severe would you say it is?, Going to the bathroom
+1938,Blood in stool,Blood in stool: How severe would you say it is?, Intercourse
+1939,Blood in stool,Blood in stool: How severe would you say it is?, REcent surgery
+1940,Blood in stool,Blood in stool: How severe would you say it is?, recent injury
+1941,Blood in stool,Blood in stool: How severe would you say it is?, None of the above
+1942,Blood in stool,Blood in stool: Do you have swelling around anus?, Mild
+1943,Blood in stool,Blood in stool: Do you have swelling around anus?, Severe
+1944,Blood in stool,Blood in stool: Do you have swelling around anus?, It wakes me at night
+1945,Blood in stool,Blood in stool: Do you have swelling around anus?, I'm not sure
+1946,Blood in stool,Blood in stool: Is it painful?, Yes/No
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+1956,Blood in urine,Blood in urine: When did you notice blood in your urine?,Blood in urine
+1957,Blood in urine,Blood in urine: Do you have pain on the side of your body (the area between your rib cage and hip bone)?, Today
+1958,Blood in urine,Blood in urine: Do you have pain on the side of your body (the area between your rib cage and hip bone)?, In the last week
+1959,Blood in urine,Blood in urine: Do you have pain on the side of your body (the area between your rib cage and hip bone)?, In the last month
+1960,Blood in urine,Blood in urine: Do you have pain on the side of your body (the area between your rib cage and hip bone)?, 1-3 months ago
+1961,Blood in urine,Blood in urine: Do you have pain on the side of your body (the area between your rib cage and hip bone)?, Over 3 months ago
+1962,Blood in urine,Blood in urine: Do you have a burning sensation or pain during or after peeing?, Yes/No
+1963,Blood in urine,Blood in urine: How severe would you say it is?, Yes/No
+1964,Blood in urine,Blood in urine: Do you need to urinate much more often than usual?, Mild
+1965,Blood in urine,Blood in urine: Do you need to urinate much more often than usual?, Severe
+1966,Blood in urine,Blood in urine: Do you need to urinate much more often than usual?, I'm not sure
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+1973,Blood in urine,Blood in urine: Have you been significantly more tired than usual (despite getting enough sleep)?, Abdominal pain
+1974,Blood in urine,Blood in urine: Have you been significantly more tired than usual (despite getting enough sleep)?, Chills
+1975,Blood in urine,Blood in urine: Have you been significantly more tired than usual (despite getting enough sleep)?, Fever
+1976,Blood in urine,Blood in urine: Have you been significantly more tired than usual (despite getting enough sleep)?, None of the above
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+1990,Blood in urine,Blood in urine:, Recent childbirth
+1991,Blood in urine,Blood in urine:, Abnormal sweating
+1992,Blood in urine,Blood in urine:, Flatulence
+1993,Blood in urine,Blood in urine:, None of the above
+1995,Blurry vision,Blurry vision: When did it start?,Blurry vision
+1996,Blurry vision,Blurry vision: Do any of these describe it?, Today
+1997,Blurry vision,Blurry vision: Do any of these describe it?, In last week
+1998,Blurry vision,Blurry vision: Do any of these describe it?, In last month
+1999,Blurry vision,Blurry vision: Do any of these describe it?, 1-3 months ago
+2000,Blurry vision,Blurry vision: Do any of these describe it?, Over 3 months ago                                       
+2001,Blurry vision,Blurry vision:  Is your vision blurry in one or both eyes?, Loss of close vision
+2002,Blurry vision,Blurry vision:  Is your vision blurry in one or both eyes?, Loss of distance vision
+2003,Blurry vision,Blurry vision:  Is your vision blurry in one or both eyes?, None of the above                                                                                                                                     
+2004,Blurry vision,Blurry vision: How blurry is your vision?, One eye
+2005,Blurry vision,Blurry vision: How blurry is your vision?, Both eyes
+2006,Blurry vision,Blurry vision: How blurry is your vision?, I'm not sure
+2007,Blurry vision,Blurry vision: Did it start gradually or suddenly?, Mildly blurry
+2008,Blurry vision,Blurry vision: Did it start gradually or suddenly?, Severely blurry
+2009,Blurry vision,Blurry vision: Did it start gradually or suddenly?, I'm not sure           
+2010,Blurry vision,Blurry vision: Was the blurry vision triggered by an injury? , Suddenly
+2011,Blurry vision,Blurry vision: Was the blurry vision triggered by an injury? , Gradually
+2012,Blurry vision,Blurry vision: Was the blurry vision triggered by an injury? , I'm not sure      
+2013,Blurry vision,Blurry vision: Does it get worse when you change positions?, Yes/No
+2014,Blurry vision,Blurry vision: Do you have a headache?, Yes/No
+2015,Blurry vision,Blurry vision: Do you have any unusual eye discharge? , Yes/No
+2016,Blurry vision,Blurry vision: Are either of your eyes red?, Yes/No
+2017,Blurry vision,Blurry vision: Are your eyes itchy?, Yes/No
+2018,Blurry vision,Blurry vision: Are your eyes more watery or teary than usual?, Yes/No 
+2019,Blurry vision,Blurry vision: Do you have decreased or worsened vision?, Yes/No
+2020,Blurry vision,Blurry vision: Do you have any eye pain?, Yes/No  
+2021,Blurry vision,"Blurry vision: Do you feel like there's something in your eye (like sand, dirt, eyelash etc)?", Yes/No
+2022,Blurry vision,Blurry vision: Is either half of your face drooping?, Yes/No
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+2032,Breast pain,Breast pain: When did it start?,Breast pain
+2033,Breast pain,Breast pain: Which side is bothering you?, Today
+2034,Breast pain,Breast pain: Which side is bothering you?, In last week
+2035,Breast pain,Breast pain: Which side is bothering you?, In last month
+2036,Breast pain,Breast pain: Which side is bothering you?, 1-3 months ago
+2037,Breast pain,Breast pain: Which side is bothering you?, Over 3 months ago                 
+2038,Breast pain,Breast pain: Is the pain worsened by touching?, One side
+2039,Breast pain,Breast pain: Is the pain worsened by touching?, Both sides
+2040,Breast pain,Breast pain: Is the pain worsened by touching?, I'm not sure
+2041,Breast pain,Breast pain: Did either of these trigger your breast pain?, Yes/No
+2042,Breast pain,Breast pain: How severe is your pain?, Pregnancy
+2043,Breast pain,Breast pain: How severe is your pain?, Recent injury
+2044,Breast pain,Breast pain: How severe is your pain?, None of the above
+2045,Breast pain,Breast pain: Is your breast red?, Mild
+2046,Breast pain,Breast pain: Is your breast red?, Severe
+2047,Breast pain,Breast pain: Is your breast red?, It wakes me at night
+2048,Breast pain,Breast pain: Is your breast red?, I'm not sure
+2049,Breast pain,Breast pain: Have you recently engaged in unprotected sexual intercourse?, Yes/No
+2050,Breast pain,Breast pain: Are you breastfeeding?, Yes/No
+2051,Breast pain,Breast pain: Have you recently given birth?, Yes/No
+2052,Breast pain,Breast pain: Do you have a fever?, Yes/No
+2053,Breast pain,"Breast pain: Are you irritable, grumpy or on edge than usual?", Yes/No
+2054,Breast pain,Breast pain: Is your period late?, Yes/No
+2055,Breast pain,Breast pain: Have you been vomiting?, Yes/No
+2056,Breast pain,Breast pain: Do you feel sick to your stomach (as if you might throw up)?, Yes/No
+2057,Breast pain,Breast pain: Have you been significantly more tired than usual (despite getting enough sleep)?, Yes/No
+2058,Breast pain,Breast pain: Do you have pain or discomfort in your abdomen?, Yes/No
+2059,Breast pain,Breast pain: Have you been feeling down or depressed in a way that impacts your life?, Yes/No
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+2073,Breast redness,Breast redness: When did it start?,Breast redness
+2074,Breast redness,Breast redness: Which breast is red?, Today
+2075,Breast redness,Breast redness: Which breast is red?, In the last week
+2076,Breast redness,Breast redness: Which breast is red?, In the last month
+2077,Breast redness,Breast redness: Which breast is red?, 1-3 month ago
+2078,Breast redness,Breast redness: Which breast is red?, Over 3 months
+2079,Breast redness,Breast redness: Which breast is red?, Years ago
+2080,Breast redness,Breast redness: How severe would you say it is?, One breast
+2081,Breast redness,Breast redness: How severe would you say it is?, Both breasts
+2082,Breast redness,Breast redness: How severe would you say it is?, I'm not sure
+2083,Breast redness,Breast redness: Did you recently give birth?, Mild
+2084,Breast redness,Breast redness: Did you recently give birth?, Severe
+2085,Breast redness,Breast redness: Did you recently give birth?, I'm not sure
+2086,Breast redness,Breast redness: Do you have pain in your breast(s)?, Yes/No
+2087,Breast redness,Breast redness: Are you breastfeeding?, Yes/No
+2088,Breast redness,Breast redness: Have you recently given birth?, Yes/No
+2089,Breast redness,Breast redness: Do you have a fever?, Yes/No
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+2120,Bulging eye,Bulging eye: When did it start?,Bulging eye
+2121,Bulging eye,Bulging eye: Is one eye bulging or are both?, Today
+2122,Bulging eye,Bulging eye: Is one eye bulging or are both?, In the last week
+2123,Bulging eye,Bulging eye: Is one eye bulging or are both?, In the last month
+2124,Bulging eye,Bulging eye: Is one eye bulging or are both?, 1-3 month ago
+2125,Bulging eye,Bulging eye: Is one eye bulging or are both?, Over 3 months
+2126,Bulging eye,Bulging eye: Is one eye bulging or are both?, Years ago
+2127,Bulging eye,Bulging eye: Do you have an enlarged thyroid or have you ever been diagnosed with a goiter?, One eye
+2128,Bulging eye,Bulging eye: Do you have an enlarged thyroid or have you ever been diagnosed with a goiter?, Both eyes
+2129,Bulging eye,Bulging eye: Do you have an enlarged thyroid or have you ever been diagnosed with a goiter?, I'm not sure
+2130,Bulging eye,"Bulging eye: Does your heart race, flutter or skip beats while you're at rest (unrelated to physical activity or excitement)?", Yes/No
+2131,Bulging eye,"Bulging eye: Is your arm (or any other part) quivering, trembeling or slightly shaking?", Yes/No
+2132,Bulging eye,Bulging eye: Have you unexpectedly lost weight (without cutting down on food or excercising more than usual)?, Yes/No
+2133,Bulging eye,Bulging eye: Have you been significantly more tired than usual (despite getting enough sleep)?, Yes/No
+2134,Bulging eye,"Bulging eye: Touching your neck, armpit and groin, can you feel any soft, round, pea-sized (or larger) nodes or lumps?", Yes/No
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+2152,Bulging eye,"Bulging eye: Are you feeling unusually weak, sickly or unwell?", Anxiety
+2153,Bulging eye,"Bulging eye: Are you feeling unusually weak, sickly or unwell?", Feeling down
+2154,Bulging eye,"Bulging eye: Are you feeling unusually weak, sickly or unwell?", Irregular periods
+2155,Bulging eye,"Bulging eye: Are you feeling unusually weak, sickly or unwell?", None of the above
+2157,Burning or painful urination,Burning or painful urination: When did it start?,Burning or painful urination
+2158,Burning or painful urination,Burning or painful urination: How severe would you say it is?, Today
+2159,Burning or painful urination,Burning or painful urination: How severe would you say it is?, In the last week
+2160,Burning or painful urination,Burning or painful urination: How severe would you say it is?, In the last month
+2161,Burning or painful urination,Burning or painful urination: How severe would you say it is?, 1-3 month ago
+2162,Burning or painful urination,Burning or painful urination: How severe would you say it is?, Over 3 months
+2163,Burning or painful urination,Burning or painful urination: How severe would you say it is?, Years ago
+2164,Burning or painful urination,Burning or painful urination: Did it start after intercourse?, Mild
+2165,Burning or painful urination,Burning or painful urination: Did it start after intercourse?, Severe
+2166,Burning or painful urination,Burning or painful urination: Did it start after intercourse?, I'm not sure
+2167,Burning or painful urination,Burning or painful urination: Do you have pain on the side of your body (the area between your rib cage and hip bone)?, Yes/No
+2168,Burning or painful urination,Burning or painful urination: Do you need to urinate much more often than usual?, Yes/No
+2169,Burning or painful urination,"Burning or painful urination: When needing to pee, do you need to do it suddenly or urgently?", Yes/No
+2170,Burning or painful urination,"Burning or painful urination: Does your urine have a strong, sharp or unpleasant smell?", Yes/No
+2171,Burning or painful urination,Burning or painful urination: Have you recently engaged in unprotected sexual intercourse?, Yes/No
+2172,Burning or painful urination,Burning or painful urination: Is your skin itchy (can be a certain area or all over)?, Yes/No
+2173,Burning or painful urination,Burning or painful urination: Do you have pain or discomfort in your abdomen?, Yes/No
+2174,Burning or painful urination,Burning or painful urination: Do you have any unusual vaginal discharge?, Yes/No
+2175,Burning or painful urination,Burning or painful urination: Do you have any vaginal pain?, Yes/No
+2176,Burning or painful urination,Burning or painful urination: Did either of these trigger your vaginal pain?, Yes/No
+2177,Burning or painful urination,Burning or painful urination: How severe would you say it is?, Intercourse
+2178,Burning or painful urination,Burning or painful urination: How severe would you say it is?, Urination
+2179,Burning or painful urination,Burning or painful urination: How severe would you say it is?, None of the above
+2180,Burning or painful urination,"Burning or painful urination: Do you have any sores, bumps or lesions in or around your vagina?", Mild
+2181,Burning or painful urination,"Burning or painful urination: Do you have any sores, bumps or lesions in or around your vagina?", Severe
+2182,Burning or painful urination,"Burning or painful urination: Do you have any sores, bumps or lesions in or around your vagina?", It wakes me at night
+2183,Burning or painful urination,"Burning or painful urination: Do you have any sores, bumps or lesions in or around your vagina?", I'm not sure
+2184,Burning or painful urination,Burning or painful urination: Does your vagina feel itchy or irritated?, Yes/No
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+2195,Burping,Burping: When did it start?,Burping
+2196,Burping,Burping: Would you describe it as smelly?, Today
+2197,Burping,Burping: Would you describe it as smelly?, In the last week
+2198,Burping,Burping: Would you describe it as smelly?, In the last month
+2199,Burping,Burping: Would you describe it as smelly?, 1-3 months ago
+2200,Burping,Burping: Would you describe it as smelly?, Over 3 months ago
+2201,Burping,Burping: Would you describe it as smelly?, Years ago
+2202,Burping,Burping: How severe would you say it is?, Yes/No
+2203,Burping,Burping: Are your stools loose or watery?, Mild
+2204,Burping,Burping: Are your stools loose or watery?, Severe
+2205,Burping,Burping: Are your stools loose or watery?, It wakes me at night
+2206,Burping,Burping: Are your stools loose or watery?, I'm not sure
+2207,Burping,Burping: Are you more gassy than usual?, Yes/No
+2208,Burping,Burping: Is it better if you avoid milk?, Yes/No
+2209,Burping,Burping: How gassy are you?, Yes/No
+2210,Burping,Burping: Do either of these trigger your symptoms?, Somewhat gassy
+2211,Burping,Burping: Do either of these trigger your symptoms?, Very gassy
+2212,Burping,Burping: Do either of these trigger your symptoms?, I'm not sure
+2213,Burping,Burping:  Do you have pain or discomfort in your abdomen?, Eating anything
+2214,Burping,Burping:  Do you have pain or discomfort in your abdomen?, Eating suspect food
+2215,Burping,Burping:  Do you have pain or discomfort in your abdomen?, None of the above
+2216,Burping,Burping: Select the areas you feel pain in the diagram, Yes/No
+2217,Burping,Burping:Which side is bothering you?, Choose from diagram
+2218,Burping,Burping: Are you constipated or have difficulty moving your bowels?, Right
+2219,Burping,Burping: Are you constipated or have difficulty moving your bowels?, Left
+2220,Burping,Burping: Are you constipated or have difficulty moving your bowels?, Both sides
+2221,Burping,Burping: Are you constipated or have difficulty moving your bowels?, I'm not sure
+2222,Burping,Burping: Do you have a burning sensation or pain during or after peeing?, Yes/No
+2223,Burping,Burping: Did you have abdominal surgery in the past?, Yes/No
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+2231,Burping,Burping: Have you been feeling down or depressed in a way that impacts your daily life?, Vomiting
+2232,Burping,Burping: Have you been feeling down or depressed in a way that impacts your daily life?, Weight gain
+2233,Burping,Burping: Have you been feeling down or depressed in a way that impacts your daily life?, Emotional stress
+,,,
+,,,
+,,,
+,,,
+2238,Burping,Burping: Are you more pale than usual?, Black stool
+2239,Burping,Burping: Are you more pale than usual?, Chest pain
+2240,Burping,Burping: Are you more pale than usual?, Bad or bitter taste
+2241,Buttocks pain,Buttocks pain: When did it start?,Buttocks pain
+2242,Buttocks pain,Buttocks pain: Which side is bothering you?, Today
+2243,Buttocks pain,Buttocks pain: Which side is bothering you?, In the last week
+2244,Buttocks pain,Buttocks pain: Which side is bothering you?, In the last month
+2245,Buttocks pain,Buttocks pain: Which side is bothering you?, 1-3 month ago
+2246,Buttocks pain,Buttocks pain: Which side is bothering you?, Over 3 months
+2247,Buttocks pain,Buttocks pain: Has it spread to on or more of the following areas?, One side
+2248,Buttocks pain,Buttocks pain: Has it spread to on or more of the following areas?, Both sides
+2249,Buttocks pain,Buttocks pain: Has it spread to on or more of the following areas?, I'm not sure
+2250,Buttocks pain,Buttocks pain: What makes it worse?, Groin
+2251,Buttocks pain,Buttocks pain: What makes it worse?, Legs
+2252,Buttocks pain,Buttocks pain: What makes it worse?, Thigh
+2253,Buttocks pain,Buttocks pain: What makes it worse?, None of the above
+2254,Buttocks pain,Buttocks pain: Could any of these have triggered your symptoms?, Changing positions
+2255,Buttocks pain,Buttocks pain: Could any of these have triggered your symptoms?, Lying down
+2256,Buttocks pain,Buttocks pain: Could any of these have triggered your symptoms?, Excercising
+2257,Buttocks pain,Buttocks pain: Could any of these have triggered your symptoms?, Pressing on areas
+2258,Buttocks pain,Buttocks pain: Could any of these have triggered your symptoms?, None of the above
+2259,Buttocks pain,Buttocks pain: Would you describe the pain as burning?, Physical activity
+2260,Buttocks pain,Buttocks pain: Would you describe the pain as burning?, Recent injury
+2261,Buttocks pain,Buttocks pain: Would you describe the pain as burning?, Swimming
+2262,Buttocks pain,Buttocks pain: Would you describe the pain as burning?, None of the above
+2263,Buttocks pain,Buttocks pain: Do any of these make it better?, Yes/No
+2264,Buttocks pain,Buttocks pain: Is your back hurting (more than usual)?, Resting
+2265,Buttocks pain,Buttocks pain: Is your back hurting (more than usual)?, Stretching
+2266,Buttocks pain,Buttocks pain: Is your back hurting (more than usual)?, None of the above
+2267,Buttocks pain,Buttocks pain: Do you have pain anywhere in your leg(s)?, Yes/No
+2268,Buttocks pain,"Buttocks pain: Do you get a sensation of numbness, tingling or prickling in either of your feet?", Yes/No
+2269,Buttocks pain,Buttocks pain: Where is your numbness and tingling?, Yes/No
+2270,Buttocks pain,Buttocks pain: Is it in one foot or both?, Toes
+2271,Buttocks pain,Buttocks pain: Is it in one foot or both?, Top of the feet
+2272,Buttocks pain,Buttocks pain: Is it in one foot or both?, Bottom of the feet
+2273,Buttocks pain,Buttocks pain: Is it in one foot or both?, Sides of the feet
+2274,Buttocks pain,Buttocks pain: Is it in one foot or both?, None of the above
+2275,Buttocks pain,Buttocks pain: Was your numbness triggered by a recent injury?, One foot
+2276,Buttocks pain,Buttocks pain: Was your numbness triggered by a recent injury?, Both feet
+2277,Buttocks pain,Buttocks pain: Was your numbness triggered by a recent injury?, I'm not sure
+2278,Buttocks pain,Buttocks pain: Do any of these make the numbness/tingling worse?, Yes/No
+2279,Buttocks pain,Buttocks pain: Did any of these improve your numbness?, Lying down
+2280,Buttocks pain,Buttocks pain: Did any of these improve your numbness?, Sitting down
+2281,Buttocks pain,Buttocks pain: Did any of these improve your numbness?, Standing
+2282,Buttocks pain,Buttocks pain: Did any of these improve your numbness?, Walking
+2283,Buttocks pain,Buttocks pain: Did any of these improve your numbness?, None of the above
+2284,Buttocks pain,Buttocks pain: Do you have pain on the side of your body(the area between your rib cage and hip bone)?, Resting
+2285,Buttocks pain,Buttocks pain: Do you have pain on the side of your body(the area between your rib cage and hip bone)?, Stretching
+2286,Buttocks pain,Buttocks pain: Do you have pain on the side of your body(the area between your rib cage and hip bone)?, None of the above
+2287,Buttocks pain,Buttocks pain: What makes it worse?, Yes/No
+2288,Buttocks pain,Buttocks pain: How intense is the pain?, Changing positions
+2289,Buttocks pain,Buttocks pain: How intense is the pain?, Climbing stairs
+2290,Buttocks pain,Buttocks pain: How intense is the pain?, Cough
+2291,Buttocks pain,Buttocks pain: How intense is the pain?, Deep breathing
+2292,Buttocks pain,Buttocks pain: How intense is the pain?, None of the above
+2293,Buttocks pain,Buttocks pain: Do you have a burning sensation or pain during or after peeing?, Somewhat painful
+2294,Buttocks pain,Buttocks pain: Do you have a burning sensation or pain during or after peeing?, Extreemly painful
+2295,Buttocks pain,Buttocks pain: Do you have a burning sensation or pain during or after peeing?, It wakes me  at night
+2296,Buttocks pain,Buttocks pain: Do you have a burning sensation or pain during or after peeing?, I'm not sure
+2297,Buttocks pain,Buttocks pain: Do you have any pain in your thigh(s)?, Yes/No
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+2311,Buttocks pain,Buttocks pain: Do you have a fever?, Skin lesions
+2312,Buttocks pain,Buttocks pain: Do you have a fever?, Foot swelling
+2313,Buttocks pain,Buttocks pain: Do you have a fever?, Warm skin on leg
+2314,Buttocks pain,Buttocks pain: Do you have a fever?, None of the above
+,,,
+,,,
+,,,
+,,,
+,,,
+2320,Calf Pain,Calf Pain:) When did it start ? ,Calf Pain
+2321,Calf Pain,Calf Pain:) Where does it hurts ?,Today
+2322,Calf Pain,Calf Pain:) Where does it hurts ?, In the last week
+2323,Calf Pain,Calf Pain:) Where does it hurts ?, in the last month
+2324,Calf Pain,Calf Pain:) Where does it hurts ?, 1-3 month ago
+2325,Calf Pain,Calf Pain:) Where does it hurts ?, over 3 months 
+2326,Calf Pain,Calf Pain:) could any of these have triggered your symptoms?, front of the calf
+2327,Calf Pain,Calf Pain:) could any of these have triggered your symptoms?, top of calf
+2328,Calf Pain,Calf Pain:) could any of these have triggered your symptoms?, bottom of calf
+2329,Calf Pain,Calf Pain:) could any of these have triggered your symptoms?, back of calf
+2330,Calf Pain,Calf Pain:) could any of these have triggered your symptoms?, side of calf
+2331,Calf Pain,Calf Pain:) could any of these have triggered your symptoms?, none of above
+2332,Calf Pain,Calf Pain:) Do any of these activities make your calf pain Worse?, Recent travel
+2333,Calf Pain,Calf Pain:) Do any of these activities make your calf pain Worse?, Pregnancy
+2334,Calf Pain,Calf Pain:) Do any of these activities make your calf pain Worse?, Recent injury
+2335,Calf Pain,Calf Pain:) Do any of these activities make your calf pain Worse?, None of above
+2336,Calf Pain,Calf Pain:) Does one calf hurt or do both hurt? , Changing position
+2337,Calf Pain,Calf Pain:) Does one calf hurt or do both hurt? , climbing stairs
+2338,Calf Pain,Calf Pain:) Does one calf hurt or do both hurt? , laying down
+2339,Calf Pain,Calf Pain:) Does one calf hurt or do both hurt? , standing
+2340,Calf Pain,Calf Pain:) Does one calf hurt or do both hurt? , walking
+2341,Calf Pain,Calf Pain:) How severe is this pain?, one calf
+2342,Calf Pain,Calf Pain:) How severe is this pain?, both calf
+2343,Calf Pain,Calf Pain:) How severe is this pain?, I am not sure
+2344,Calf Pain,Calf Pain:) Do any of these make it better?, mild
+2345,Calf Pain,Calf Pain:) Do any of these make it better?, severe
+2346,Calf Pain,Calf Pain:) Do any of these make it better?, it works at me night
+2347,Calf Pain,Calf Pain:) Do any of these make it better?, i am not sure
+2348,Calf Pain,Calf Pain:) Do either of these describe it ? , laying down
+2349,Calf Pain,Calf Pain:) Do either of these describe it ? ,resting
+2350,Calf Pain,Calf Pain:) Do either of these describe it ? ,sitting down
+2351,Calf Pain,Calf Pain:) Do either of these describe it ? ,standing
+2352,Calf Pain,Calf Pain:) Do either of these describe it ? ,stretching
+2353,Calf Pain,Calf Pain:) Do either of these describe it ? , none of above
+2354,Calf Pain,Calf Pain:) is this pain raditing ti your thigh?, burning
+2355,Calf Pain,Calf Pain:) is this pain raditing ti your thigh?, sherp
+2356,Calf Pain,Calf Pain:) is this pain raditing ti your thigh?, none of above
+2357,Calf Pain,Calf Pain:) Did it start gradually or suddenly?, Yes/No
+2358,Calf Pain,"Calf Pain:) Is it getting better,worse,or staying the same?", suddenly
+2359,Calf Pain,"Calf Pain:) Is it getting better,worse,or staying the same?",gradually
+2360,Calf Pain,"Calf Pain:) Is it getting better,worse,or staying the same?", i am not sure
+2361,Calf Pain,Calf Pain:) i have more questions for you but before we get to that can you think of another , improving
+2362,Calf Pain,Calf Pain:) i have more questions for you but before we get to that can you think of another ,worsening
+2363,Calf Pain,Calf Pain:) i have more questions for you but before we get to that can you think of another , the same
+2364,Calf Pain,Calf Pain:) i have more questions for you but before we get to that can you think of another , I am not sure
+2365,Calf Pain,Calf Pain:related symptom?, Yes/No
+2366,Calf Pain,Calf Pain:)Do you have pain pressure of discomfort in chest?, Yes/No
+2367,Calf Pain,Calf Pain:) Do you have trouble breathing or catching your breath?, Yes/No
+2368,Calf Pain,"Calf Pain:) are either of your calves swollen, puffy, or enlarged?", yes/no
+2369,Calf Pain,Calf Pain:) is your back hurting more than usual?, Yes/No
+2370,Calf Pain,Calf Pain:) do you have pain anywhere in your leg?, yes/no
+2371,Calf Pain,Calf Pain:) do you have fever?, yes/no
+2372,Calf Pain,Calf Pain:) do you get sensation of numbness tingling or prickling in either of your feet?, yes/no
+2373,Calf Pain,Calf Pain:) do you have pain on the side of your body ( the area between your rib cageand hip bone?, Yes/no
+2374,Calf Pain,Calf Pain:) have you been diagnosed with high blood pressure by doctor?, Yes/No
+2375,Calf Pain,Calf Pain:) have yyou been diagnosed with Diabetes ( type ) by a doctor?, yes/no
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+2385,Chest pain,Chest pain: when does it starts?,Chest pain
+2386,Chest pain,Chest pain:select the are where you fill pain in the diagram,today
+2387,Chest pain,Chest pain:select the are where you fill pain in the diagram,in the last week
+2388,Chest pain,Chest pain:select the are where you fill pain in the diagram,in the last month
+2389,Chest pain,Chest pain:select the are where you fill pain in the diagram,1-3 months ago
+2390,Chest pain,Chest pain:select the are where you fill pain in the diagram,over 3 months ago
+2391,Chest pain,Chest pain: do any of these make pain worst?, diagram of whole chest is given / i am not sure
+2392,Chest pain,Chest pain:did any of these trigger your chest pain?,arm movement
+2393,Chest pain,Chest pain:did any of these trigger your chest pain?,changing position
+2394,Chest pain,Chest pain:did any of these trigger your chest pain?,climbing stairs
+2395,Chest pain,Chest pain:did any of these trigger your chest pain?,cough
+2396,Chest pain,Chest pain:did any of these trigger your chest pain?,deep breathing
+2397,Chest pain,Chest pain:did any of these trigger your chest pain?,eating
+2398,Chest pain,Chest pain:did any of these trigger your chest pain?,laying down
+2399,Chest pain,Chest pain:did any of these trigger your chest pain?,physicial activity
+2400,Chest pain,Chest pain:did any of these trigger your chest pain?,sitting down
+2401,Chest pain,Chest pain:did any of these trigger your chest pain?,swallowing
+2403,Chest pain,Chest pain: is one side of chest bothering you more?,walking
+2404,Chest pain,Chest pain: do any of these relieve your pain?,eating
+2405,Chest pain,Chest pain: do any of these relieve your pain?,emotional stress
+2406,Chest pain,Chest pain: do any of these relieve your pain?,recent travel
+2407,Chest pain,Chest pain: do any of these relieve your pain?,pregnancy
+2408,Chest pain,Chest pain: do any of these relieve your pain?,recent injury
+2409,Chest pain,Chest pain: do any of these relieve your pain?,none of above
+2410,Chest pain,Chest pain: does your chest pain radiate anywhere?, yes the right side
+2411,Chest pain,Chest pain: does your chest pain radiate anywhere?,left side
+2412,Chest pain,Chest pain: does your chest pain radiate anywhere?,both sides
+2413,Chest pain,Chest pain: does your chest pain radiate anywhere?,i am not sure
+2414,Chest pain,Chest pain: do any of these describe your chest pain?, applying heat
+2415,Chest pain,Chest pain: do any of these describe your chest pain?,eating
+2416,Chest pain,Chest pain: do any of these describe your chest pain?,resting
+2417,Chest pain,Chest pain: do any of these describe your chest pain?,streatching
+2418,Chest pain,Chest pain: do any of these describe your chest pain?,none of above
+2419,Chest pain,Chest pain: how intense is your chest pain? , head
+2420,Chest pain,Chest pain: how intense is your chest pain? ,jaw
+2421,Chest pain,Chest pain: how intense is your chest pain? ,throat
+2422,Chest pain,Chest pain: how intense is your chest pain? ,neck
+2423,Chest pain,Chest pain: how intense is your chest pain? ,shoulder
+2424,Chest pain,Chest pain: how intense is your chest pain? ,shoulder blade
+2425,Chest pain,Chest pain: how intense is your chest pain? ,hand or fingers
+2426,Chest pain,Chest pain: how intense is your chest pain? ,arm
+2427,Chest pain,Chest pain: how intense is your chest pain? ,abdomen
+2428,Chest pain,Chest pain: how intense is your chest pain? ,back
+2429,Chest pain,Chest pain: did your chest pain starts suddenly?, beltlike
+2430,Chest pain,Chest pain: did your chest pain starts suddenly?, burning
+2431,Chest pain,Chest pain: did your chest pain starts suddenly?,cramps
+2432,Chest pain,Chest pain: did your chest pain starts suddenly?,pressuring
+2433,Chest pain,Chest pain: did your chest pain starts suddenly?,sharp
+2434,Chest pain,Chest pain: did your chest pain starts suddenly?,stabbing
+2435,Chest pain,Chest pain: did your chest pain starts suddenly?,vague
+2436,Chest pain,Chest pain: do you have trouble in breathig?, its berable
+2437,Chest pain,Chest pain: do you have trouble in breathig?,vary painful
+2438,Chest pain,Chest pain: do you have trouble in breathig?,wake me at night
+2439,Chest pain,Chest pain: do you have trouble in breathig?,i am not sure
+2440,Chest pain,Chest pain:have you ever been diagnosed by ischemic or coronary heart disease?, no it was gradual
+2441,Chest pain,Chest pain:have you ever been diagnosed by ischemic or coronary heart disease?, yes it did
+2442,Chest pain,Chest pain:have you ever been diagnosed by ischemic or coronary heart disease?, i am not sure
+2443,Chest pain,Chest pain: do you have pain in your ribs?, yes/ no
+2444,Chest pain,"Chest pain: are you feeling anxious, worried, or fearful?", yes/ no
+2445,Chest pain,"Chest pain: does your heart race, skip a beat while reasting?", yes/ no
+2446,Chest pain,Chest pain: are you breathing much faster then usual?, yes/ no 
+2447,Chest pain,Chest pain: have you been significantly more tired then usual?, yes/ no
+2448,Chest pain,Chest pain: do you smoke?, yes/ no
+2449,Chest pain,Chest pain: do you have a fever?, yes/ no 
+2490,Decreased hearing,"Decreased hearing: is it getting better, worse, or staying the same?", suddenly
+2491,Decreased hearing,"Decreased hearing: is it getting better, worse, or staying the same?", gradually
+2492,Decreased hearing,"Decreased hearing: is it getting better, worse, or staying the same?", i am not sure  
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+2813,Decreased vision ,Decreased vision : when did it start?,Decreased vision 
+2814,Decreased vision ,Decreased vision : do either of these describe it?, in last month
+2815,Decreased vision ,Decreased vision : do either of these describe it?, 1- 3 months ago
+2816,Decreased vision ,Decreased vision : do either of these describe it?, over 3 months
+2817,Decreased vision ,Decreased vision : do either of these describe it?, years ago
+2818,Decreased vision ,Decreased vision : how severe would you say it is?, loss of near vision
+2819,Decreased vision ,Decreased vision : how severe would you say it is?, loss of distance vision
+2820,Decreased vision ,Decreased vision : how severe would you say it is?, none of these 
+2821,Decreased vision ,Decreased vision : is your vision worse in one eye or both eyes?, mild
+2822,Decreased vision ,Decreased vision : is your vision worse in one eye or both eyes?, severe 
+2823,Decreased vision ,Decreased vision : is your vision worse in one eye or both eyes?, i am not sure
+2824,Decreased vision ,Decreased vision : does it usually happen at a particular time?, affects one eye
+2825,Decreased vision ,Decreased vision : does it usually happen at a particular time?, affects both eyes
+2826,Decreased vision ,Decreased vision : does it usually happen at a particular time?, i am not sure 
+2827,Decreased vision ,Decreased vision : do your eyes feel particularly dry?, in morning
+2828,Decreased vision ,Decreased vision : do your eyes feel particularly dry?, midday
+2829,Decreased vision ,Decreased vision : do your eyes feel particularly dry?, in evening
+2830,Decreased vision ,Decreased vision : do your eyes feel particularly dry?, at night time
+2831,Decreased vision ,Decreased vision : do your eyes feel particularly dry?, none of these 
+2832,Decreased vision ,Decreased vision : is one eye or both eyes bothering you?, yes
+2833,Decreased vision ,Decreased vision : is one eye or both eyes bothering you?, no
+2834,Decreased vision ,Decreased vision : how dry do your eyes feel?, one eye
+2835,Decreased vision ,Decreased vision : how dry do your eyes feel?, both eyes
+2836,Decreased vision ,Decreased vision : how dry do your eyes feel?, i am not sure 
+2837,Decreased vision ,"Decreased vision : is it getting better, worse or staying the same?", somewhat dry
+2838,Decreased vision ,"Decreased vision : is it getting better, worse or staying the same?", very dry
+2839,Decreased vision ,"Decreased vision : is it getting better, worse or staying the same?", i am not sure 
+2840,Decreased vision ,Decreased vision : do you have any eye pain?, improving
+2841,Decreased vision ,Decreased vision : do you have any eye pain?, worsening
+2842,Decreased vision ,Decreased vision : do you have any eye pain?, the same
+2843,Decreased vision ,Decreased vision : do you have any eye pain?, i am not sure 
+2844,Decreased vision ,Decreased vision : do you think any of these triggered your eye pain?, yes
+2845,Decreased vision ,Decreased vision : do you think any of these triggered your eye pain?, no
+2846,Decreased vision ,Decreased vision : do any of these describe your pain?, contact with allergen
+2847,Decreased vision ,Decreased vision : do any of these describe your pain?, got something in eye
+2848,Decreased vision ,Decreased vision : do any of these describe your pain?, possible food allergy
+2849,Decreased vision ,Decreased vision : do any of these describe your pain?, recent surgery
+2850,Decreased vision ,Decreased vision : do any of these describe your pain?, recent injury
+2851,Decreased vision ,Decreased vision : do any of these describe your pain?, scratch
+2852,Decreased vision ,Decreased vision : do any of these describe your pain?, none of these 
+2853,Decreased vision ,Decreased vision : are either of your eyes red?, burning
+2854,Decreased vision ,Decreased vision : are either of your eyes red?, pressuring
+2855,Decreased vision ,Decreased vision : are either of your eyes red?, sharp
+2856,Decreased vision ,Decreased vision : are either of your eyes red?, stabbing
+2857,Decreased vision ,Decreased vision : are either of your eyes red?, none of these 
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+2906,Dental pain,"Dental pain: is it getting better, worse, or staying the same?", eating
+2907,Dental pain,"Dental pain: is it getting better, worse, or staying the same?", pressing on area
+2908,Dental pain,"Dental pain: is it getting better, worse, or staying the same?", none of these 
+,,,
+,,,
+,,,
+,,,
+3197,Difficulty urinating,Difficulty urinating: how long has urinary hesitancy been a problem?,Difficulty urinating
+3198,Difficulty urinating,Difficulty urinating: is it getting more difficult to urinate?, today
+3199,Difficulty urinating,Difficulty urinating: is it getting more difficult to urinate?, last week
+3200,Difficulty urinating,Difficulty urinating: is it getting more difficult to urinate?, in last month
+3201,Difficulty urinating,Difficulty urinating: is it getting more difficult to urinate?, 1-3 months ago
+3202,Difficulty urinating,Difficulty urinating: is it getting more difficult to urinate?, over 3 months
+3203,Difficulty urinating,Difficulty urinating: is it getting more difficult to urinate?, years ago 
+3204,Difficulty urinating,Difficulty urinating: did it start gradually or suddenly?, its getting easier
+3205,Difficulty urinating,Difficulty urinating: did it start gradually or suddenly?, its getting more difficult
+3206,Difficulty urinating,Difficulty urinating: did it start gradually or suddenly?, its staying the same
+3207,Difficulty urinating,Difficulty urinating: did it start gradually or suddenly?, i am not sure 
+3208,Difficulty urinating,Difficulty urinating: do you have pain in the side of your body?, suddenly
+3209,Difficulty urinating,Difficulty urinating: do you have pain in the side of your body?, gradually
+3210,Difficulty urinating,Difficulty urinating: do you have pain in the side of your body?, i am not sure 
+3211,Difficulty urinating,Difficulty urinating: does one flank hurt or do both hurt?, yes
+3212,Difficulty urinating,Difficulty urinating: does one flank hurt or do both hurt?, no 
+3213,Difficulty urinating,Difficulty urinating: what makes it worse? , one flank
+3214,Difficulty urinating,Difficulty urinating: what makes it worse? , both flanks
+3215,Difficulty urinating,Difficulty urinating: what makes it worse? , i am not sure 
+3216,Difficulty urinating,Difficulty urinating: how intense is the pain?, changing positions
+3217,Difficulty urinating,Difficulty urinating: how intense is the pain?, climbing stairs
+3218,Difficulty urinating,Difficulty urinating: how intense is the pain?, cough
+3219,Difficulty urinating,Difficulty urinating: how intense is the pain?, deep breathing
+3220,Difficulty urinating,Difficulty urinating: how intense is the pain?, lying down
+3221,Difficulty urinating,Difficulty urinating: how intense is the pain?, physical activity
+3222,Difficulty urinating,Difficulty urinating: how intense is the pain?, sitting down
+3223,Difficulty urinating,Difficulty urinating: how intense is the pain?, standing
+3224,Difficulty urinating,Difficulty urinating: how intense is the pain?, walking
+3225,Difficulty urinating,Difficulty urinating: how intense is the pain?, none of these 
+3226,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, somewhat painful
+3227,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, extremely painful
+3228,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, it wakes me at night
+3229,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, i am not sure 
+3230,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, chest
+3231,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, abdomen
+3232,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, back
+3233,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, buttocks
+3234,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, groin
+3235,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, legs
+3236,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, thigh
+3237,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, none of these 
+3238,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, dairy intake
+3239,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, drinking fluids
+3240,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, eating
+3241,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, recent childbirth
+3242,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, recent surgery
+3243,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, recent injury
+3244,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, none of these 
+3245,Difficulty urinating,Difficulty urinating: how severe would you say it is?, yes
+3246,Difficulty urinating,Difficulty urinating: how severe would you say it is?, no 
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+3277,Difficulty urinating,Difficulty urinating: how long has urinary hesitancy been a problem?,Difficulty urinating
+3278,Difficulty urinating,Difficulty urinating: did it start gradually or suddenly?, today
+3279,Difficulty urinating,Difficulty urinating: did it start gradually or suddenly?, last week
+3280,Difficulty urinating,Difficulty urinating: did it start gradually or suddenly?, in last month
+3281,Difficulty urinating,Difficulty urinating: did it start gradually or suddenly?, 1-3 months ago
+3282,Difficulty urinating,Difficulty urinating: did it start gradually or suddenly?, over 3 months
+3283,Difficulty urinating,Difficulty urinating: did it start gradually or suddenly?, years ago 
+3284,Difficulty urinating,Difficulty urinating:  is it getting more difficult to urinate?, suddenly
+3285,Difficulty urinating,Difficulty urinating:  is it getting more difficult to urinate?, gradually
+3286,Difficulty urinating,Difficulty urinating:  is it getting more difficult to urinate?, i am not sure 
+3287,Difficulty urinating,Difficulty urinating: do you have pain in the side of your body?, its getting easier
+3288,Difficulty urinating,Difficulty urinating: do you have pain in the side of your body?, its getting more difficult
+3289,Difficulty urinating,Difficulty urinating: do you have pain in the side of your body?, its staying the same
+3290,Difficulty urinating,Difficulty urinating: do you have pain in the side of your body?, i am not sure 
+3291,Difficulty urinating,Difficulty urinating: does one flank hurt or do both hurt?, yes
+3292,Difficulty urinating,Difficulty urinating: does one flank hurt or do both hurt?, no 
+3293,Difficulty urinating,Difficulty urinating:  does the pain radiate to any of these areas?, one flank
+3294,Difficulty urinating,Difficulty urinating:  does the pain radiate to any of these areas?, both flanks
+3295,Difficulty urinating,Difficulty urinating:  does the pain radiate to any of these areas?, i am not sure 
+3296,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, chest
+3297,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, abdomen
+3298,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, back
+3299,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, buttocks
+3300,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, groin
+3301,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, legs
+3302,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, thigh
+3303,Difficulty urinating,Difficulty urinating: does the pain radiate to any of these areas?, none of these 
+3304,Difficulty urinating,Difficulty urinating: how intense is the pain? , chest
+3305,Difficulty urinating,Difficulty urinating: how intense is the pain? , abdomen
+3306,Difficulty urinating,Difficulty urinating: how intense is the pain? , back
+3307,Difficulty urinating,Difficulty urinating: how intense is the pain? , buttocks
+3308,Difficulty urinating,Difficulty urinating: how intense is the pain? , groin
+3309,Difficulty urinating,Difficulty urinating: how intense is the pain? , legs
+3310,Difficulty urinating,Difficulty urinating: how intense is the pain? , testicles
+3311,Difficulty urinating,Difficulty urinating: how intense is the pain? , thigh
+3312,Difficulty urinating,Difficulty urinating: how intense is the pain? , none of these 
+3313,Difficulty urinating,Difficulty urinating: what makes it worse?, somewhat painful
+3314,Difficulty urinating,Difficulty urinating: what makes it worse?, extremely painful
+3315,Difficulty urinating,Difficulty urinating: what makes it worse?, it wakes me at night
+3316,Difficulty urinating,Difficulty urinating: what makes it worse?, i am not sure 
+3317,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, changing positions
+3318,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, climbing stairs
+3319,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, cough
+3320,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, deep breathing
+3321,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, lying down
+3322,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, physical activity
+3323,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, sitting down
+3324,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, standing
+3325,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, walking
+3326,Difficulty urinating,Difficulty urinating: did any of these trigger your flank?, none of these 
+3327,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?,  dairy intake
+3328,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, drinking fluids
+3329,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, eating
+3330,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, recent childbirth
+3331,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, recent surgery
+3332,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, recent injury
+3333,Difficulty urinating,Difficulty urinating: do you have a burning sensation or pain during or after peeing?, none of these 
+3334,Difficulty urinating,Difficulty urinating:  how severe would you say it is?, yes
+3335,Difficulty urinating,Difficulty urinating:  how severe would you say it is?, no 
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+3365,Dizziness,Dizziness: when did it start?,Dizziness
+3366,Dizziness,Dizziness: do any of these make you more dizzy?, today
+3367,Dizziness,Dizziness: do any of these make you more dizzy?, in last week
+3368,Dizziness,Dizziness: do any of these make you more dizzy?, in last month
+3369,Dizziness,Dizziness: do any of these make you more dizzy?, 1-3 months ago
+3370,Dizziness,Dizziness: do any of these make you more dizzy?, over 3 months ago
+3371,Dizziness,Dizziness: do any of these trigger your dizziness?, changing positions
+3372,Dizziness,Dizziness: do any of these trigger your dizziness?, climbing stairs
+3373,Dizziness,Dizziness: do any of these trigger your dizziness?, head movement
+3374,Dizziness,Dizziness: do any of these trigger your dizziness?, lying down
+3375,Dizziness,Dizziness: do any of these trigger your dizziness?, standing
+3376,Dizziness,Dizziness: do any of these trigger your dizziness?, walking
+3377,Dizziness,Dizziness: do any of these trigger your dizziness?, none of these
+3378,Dizziness,Dizziness: do any of these make it better?, emotional stress
+3379,Dizziness,Dizziness: do any of these make it better?, heat or sun exposure
+3380,Dizziness,Dizziness: do any of these make it better?, recent surgery
+3381,Dizziness,Dizziness: do any of these make it better?, recent injury
+3382,Dizziness,Dizziness: do any of these make it better?, none of these
+3383,Dizziness,Dizziness: are you drinking less fluids?, resting
+3384,Dizziness,Dizziness: are you drinking less fluids?, standing
+3385,Dizziness,Dizziness: are you drinking less fluids?, stretching
+3386,Dizziness,Dizziness: are you drinking less fluids?, none of these
+3387,Dizziness,Dizziness: have you fainted or passed out?, yes
+3388,Dizziness,Dizziness: have you fainted or passed out?, no
+3389,Dizziness,Dizziness: Did any of these trigger your fainting?, yes
+3390,Dizziness,Dizziness: Did any of these trigger your fainting?, no
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+3403,Dizziness,"Dizziness: do you have pain, pressure or discomfort in your chest?", nausea
+3404,Dizziness,"Dizziness: do you have pain, pressure or discomfort in your chest?", feeling faint
+3405,Dizziness,"Dizziness: do you have pain, pressure or discomfort in your chest?", headache
+3406,Dizziness,"Dizziness: do you have pain, pressure or discomfort in your chest?", none of these
+3407,Dizziness,Dizziness: do you have trouble breathing or catching your breath?, yes
+3408,Dizziness,Dizziness: do you have trouble breathing or catching your breath?, no 
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+3469,Drooping eyelid,"Drooping eyelid: does any part of your face feels numb, tingly or prickly?", just once
+3470,Drooping eyelid,"Drooping eyelid: does any part of your face feels numb, tingly or prickly?", about once a day
+3471,Drooping eyelid,"Drooping eyelid: does any part of your face feels numb, tingly or prickly?", couple of times a day
+3472,Drooping eyelid,"Drooping eyelid: does any part of your face feels numb, tingly or prickly?", couple of times a week
+3473,Drooping eyelid,"Drooping eyelid: does any part of your face feels numb, tingly or prickly?", happens all the time
+3474,Drooping eyelid,"Drooping eyelid: does any part of your face feels numb, tingly or prickly?", i am not sure
+3495,Drooping eyelid,"Drooping eyelid: is it getting better, worse, or staying the same?", one side
+3496,Drooping eyelid,"Drooping eyelid: is it getting better, worse, or staying the same?", both sides
+3497,Drooping eyelid,"Drooping eyelid: is it getting better, worse, or staying the same?", i am not sure
+3549,Dry mucous membrane,Dry mucous membrane: when did it start?,Dry mucous membrane
+3550,Dry mucous membrane,Dry mucous membrane: how dry do they feel?, today
+3551,Dry mucous membrane,Dry mucous membrane: how dry do they feel?, in last week
+3552,Dry mucous membrane,Dry mucous membrane: how dry do they feel?, in last month
+3553,Dry mucous membrane,Dry mucous membrane: how dry do they feel?, 1-3 months ago
+3554,Dry mucous membrane,Dry mucous membrane: how dry do they feel?, over 3 months ago  
+3555,Dry mucous membrane,Dry mucous membrane: are you drinking less fluids?, somewhat dry
+3556,Dry mucous membrane,Dry mucous membrane: are you drinking less fluids?, very dry
+3557,Dry mucous membrane,Dry mucous membrane: are you drinking less fluids?, i am not sure 
+3558,Dry mucous membrane,Dry mucous membrane: does your mouth feel dry?, yes
+3559,Dry mucous membrane,Dry mucous membrane: does your mouth feel dry?, no 
+3560,Dry mucous membrane,Dry mucous membrane: have you been vomiting?, yes
+3561,Dry mucous membrane,Dry mucous membrane: have you been vomiting?, no
+3562,Dry mucous membrane,Dry mucous membrane: did any of these trigger your vomiting?, yes
+3563,Dry mucous membrane,Dry mucous membrane: did any of these trigger your vomiting?, no 
+3564,Dry mucous membrane,Dry mucous membrane: how often are you vomiting?, dairy intake
+3565,Dry mucous membrane,Dry mucous membrane: how often are you vomiting?, drinking fluids
+3566,Dry mucous membrane,Dry mucous membrane: how often are you vomiting?, eating
+3567,Dry mucous membrane,Dry mucous membrane: how often are you vomiting?, eating suspect food
+3568,Dry mucous membrane,Dry mucous membrane: how often are you vomiting?, recent travel
+3569,Dry mucous membrane,Dry mucous membrane: how often are you vomiting?, heat or sun exposure
+3570,Dry mucous membrane,Dry mucous membrane: how often are you vomiting?, possible food allergy
+3571,Dry mucous membrane,Dry mucous membrane: how often are you vomiting?, recent injury
+3572,Dry mucous membrane,Dry mucous membrane: how often are you vomiting?, none of these
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+3583,Dry mucous membrane,Dry mucous membrane: do you have a headache? , dizziness
+3584,Dry mucous membrane,Dry mucous membrane: do you have a headache? , fatigue
+3585,Dry mucous membrane,Dry mucous membrane: do you have a headache? , abdominal pain
+3586,Dry mucous membrane,Dry mucous membrane: do you have a headache? , none of these 
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+3605,Dry skin ,Dry skin : when did you first notice it?,Dry skin 
+3606,Dry skin ,Dry skin : where does your skin feels dry?, today
+3607,Dry skin ,Dry skin : where does your skin feels dry?, in last week
+3608,Dry skin ,Dry skin : where does your skin feels dry?, in last month
+3609,Dry skin ,Dry skin : where does your skin feels dry?, 1-3 months ago
+3610,Dry skin ,Dry skin : where does your skin feels dry?, over 3 months ago
+3611,Dry skin ,Dry skin : how dry is your skin?, head
+3612,Dry skin ,Dry skin : how dry is your skin?, ear
+3613,Dry skin ,Dry skin : how dry is your skin?, face
+3614,Dry skin ,Dry skin : how dry is your skin?, arm
+3615,Dry skin ,Dry skin : how dry is your skin?, entire hand
+3616,Dry skin ,Dry skin : how dry is your skin?, whole body
+3617,Dry skin ,Dry skin : how dry is your skin?, none of these 
+3618,Dry skin ,Dry skin : are you drinking less fluids? , somewhat dry
+3619,Dry skin ,Dry skin : are you drinking less fluids? , very dry
+3620,Dry skin ,Dry skin : are you drinking less fluids? , i am not sure 
+3621,Dry skin ,Dry skin : does your mouth feel dry?, yes
+3622,Dry skin ,Dry skin : does your mouth feel dry?, no
+3623,Dry skin ,Dry skin : have you been vomiting?, yes
+3624,Dry skin ,Dry skin : have you been vomiting?, no 
+3625,Dry skin ,Dry skin : have you fainted or passed out?, yes
+3626,Dry skin ,Dry skin : have you fainted or passed out?, no 
+3627,Dry skin ,Dry skin : do you have a fever?, yes
+3628,Dry skin ,Dry skin : do you have a fever?, no 
+3629,Dry skin ,Dry skin : do you have foot fungus?, yes
+3630,Dry skin ,Dry skin : do you have foot fungus?, no 
+3631,Dry skin ,Dry skin : do you have headache? , yes
+3632,Dry skin ,Dry skin : do you have headache? , no
+3633,Dry skin ,Dry skin : could any of these have triggered your symptoms? , yes
+3634,Dry skin ,Dry skin : could any of these have triggered your symptoms? , no  
+3636,Ear discharge,Ear discharge: When did it start?,Ear discharge
+3637,Ear discharge,Ear discharge: Is it one ear or both?, Today
+3638,Ear discharge,Ear discharge: Is it one ear or both?, In the last week
+3639,Ear discharge,Ear discharge: Is it one ear or both?, In the last month
+3640,Ear discharge,Ear discharge: Is it one ear or both?, 1-3 months ago
+3641,Ear discharge,Ear discharge: Is it one ear or both?, Over 3 months ago
+3642,Ear discharge,Ear discharge: Is it one ear or both?, Years ago
+3643,Ear discharge,Ear discharge: Did cleaning out your ear trigger the dicharge?, One ear
+3644,Ear discharge,Ear discharge: Did cleaning out your ear trigger the dicharge?, Both ears
+3645,Ear discharge,Ear discharge: Did cleaning out your ear trigger the dicharge?, I'm not sure
+3646,Ear discharge,Ear discharge: Did it start gradually or suddenly?, Yes/No
+3647,Ear discharge,Ear discharge: Do you have any ear pain?, Suddenly
+3648,Ear discharge,Ear discharge: Do you have any ear pain?, Gradually
+3649,Ear discharge,Ear discharge: Do you have any ear pain?, I'm not sure
+3650,Ear discharge,Ear discharge: Does one ear hurt or do both hurt?, Yes/No
+3651,Ear discharge,Ear discharge: Could any of these have triggered your symptom?, One ear
+3652,Ear discharge,Ear discharge: Could any of these have triggered your symptom?, Both ears
+3653,Ear discharge,Ear discharge: Could any of these have triggered your symptom?, I'm not sure
+3654,Ear discharge,Ear discharge: How much pain is it causing you?, Dental procedure
+3655,Ear discharge,Ear discharge: How much pain is it causing you?, Ear canal cleaning
+3656,Ear discharge,Ear discharge: How much pain is it causing you?, Recent surgery
+3657,Ear discharge,Ear discharge: How much pain is it causing you?, Recent injury
+3658,Ear discharge,Ear discharge: How much pain is it causing you?, Swimming
+3659,Ear discharge,Ear discharge: How much pain is it causing you?, None of the above
+3660,Ear discharge,Ear discharge: What makes it worse? , Mild pain
+3661,Ear discharge,Ear discharge: What makes it worse? , Severe pain
+3662,Ear discharge,Ear discharge: What makes it worse? , It wakes me at night
+3663,Ear discharge,Ear discharge: What makes it worse? , I'm not sure
+3664,Ear discharge,Ear discharge: Do any of these describe your ear pain?, Changing position
+3665,Ear discharge,Ear discharge: Do any of these describe your ear pain?, Chewing
+3666,Ear discharge,Ear discharge: Do any of these describe your ear pain?, Exposure to cold
+3667,Ear discharge,Ear discharge: Do any of these describe your ear pain?, Exposure to sound
+3668,Ear discharge,Ear discharge: Do any of these describe your ear pain?, None of the above
+3669,Ear discharge,Ear discharge: Do your ears feel clogged or blocked?, Burning
+3670,Ear discharge,Ear discharge: Do your ears feel clogged or blocked?, Persistent
+3671,Ear discharge,Ear discharge: Do your ears feel clogged or blocked?, Pinpoint
+3672,Ear discharge,Ear discharge: Do your ears feel clogged or blocked?, Pressuring
+3673,Ear discharge,Ear discharge: Do your ears feel clogged or blocked?, None of the above
+3674,Ear discharge,Ear discharge: Did either of these trigger your plugged ears?, Yes/No 
+3675,Ear discharge,Ear discharge: Do you have a runny nose?, Recent travel
+3676,Ear discharge,Ear discharge: Do you have a runny nose?, Swimming
+3677,Ear discharge,Ear discharge: Do you have a runny nose?, None of the above
+,,,
+,,,
+,,,
+,,,
+,,,
+3683,Ear discharge,Ear discharge: Are you feeling dizzy?, Ringing in ears
+3684,Ear discharge,Ear discharge: Are you feeling dizzy?, Recent travel or flying
+3685,Ear discharge,Ear discharge: Are you feeling dizzy?, Ear pressure
+3686,Ear discharge,Ear discharge: Are you feeling dizzy?, None of the above
+,,,
+,,,
+,,,
+,,,
+3788,Goiter,"Goiter: does you heart race, flutter or skip beats while you're at rest?",Goiter
+3789,Goiter,Goiter: do you feel cold?, yes
+3790,Goiter,Goiter: do you feel cold?, no 
+3791,Goiter,Goiter: what part of your body feels cold?, yes
+3792,Goiter,Goiter: what part of your body feels cold?, no 
+3793,Goiter,Goiter: how severe is it?, arm
+3794,Goiter,Goiter: how severe is it?, entire hand
+3795,Goiter,Goiter: how severe is it?, fingers
+3796,Goiter,Goiter: how severe is it?, legs
+3797,Goiter,Goiter: how severe is it?, whole body
+3798,Goiter,Goiter: how severe is it?, none of these 
+3799,Goiter,Goiter: is it worse at a particular time? , mild
+3800,Goiter,Goiter: is it worse at a particular time? , severe
+3801,Goiter,Goiter: is it worse at a particular time? , i am not sure 
+3802,Goiter,Goiter: have you unexpectedly gained weight?, in morning
+3803,Goiter,Goiter: have you unexpectedly gained weight?, midday
+3804,Goiter,Goiter: have you unexpectedly gained weight?, in evening
+3805,Goiter,Goiter: have you unexpectedly gained weight?, at night time
+3806,Goiter,Goiter: have you unexpectedly gained weight?, a specific time of year
+3807,Goiter,Goiter: have you unexpectedly gained weight?, none of these 
+,,,
+,,,
+3810,Goiter,"Goiter: is your arm or any other part quivering, trembling or slightly shaking?", fatigue
+3811,Goiter,"Goiter: is your arm or any other part quivering, trembling or slightly shaking?", constipation
+3812,Goiter,"Goiter: is your arm or any other part quivering, trembling or slightly shaking?", insomnia
+3813,Goiter,"Goiter: is your arm or any other part quivering, trembling or slightly shaking?", none of these
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+3828,Goiter,Goiter: is skin over your joint red?, malaise
+3829,Goiter,Goiter: is skin over your joint red?, joint pain
+3830,Goiter,Goiter: is skin over your joint red?, decreased appetite 
+3831,Goiter,Goiter: are your joints unusually stiff in the morning?, yes
+3832,Goiter,Goiter: are your joints unusually stiff in the morning?, no 
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+3938,groin pain,groin pain: do you need to urinate much more often than usual?, constipation
+3939,groin pain,groin pain: do you need to urinate much more often than usual?, urinary urgency
+3940,groin pain,groin pain: do you need to urinate much more often than usual?, perineal pain
+3941,groin pain,groin pain: do you need to urinate much more often than usual?, none of these 
+,,,
+,,,
+3944,groin pain,"groin pain: do you have any sores, bumps or lesions on or around your penis?", penile pain
+3945,groin pain,"groin pain: do you have any sores, bumps or lesions on or around your penis?", penile discharge
+3946,groin pain,"groin pain: do you have any sores, bumps or lesions on or around your penis?", chills
+3947,groin pain,"groin pain: do you have any sores, bumps or lesions on or around your penis?", none of these 
+,,,
+,,,
+3950,groin swelling,groin swelling: when did it start?,groin swelling
+3951,groin swelling,groin swelling: is your groin swelling on one side or both?, today
+3952,groin swelling,groin swelling: is your groin swelling on one side or both?, in last week
+3953,groin swelling,groin swelling: is your groin swelling on one side or both?, in last month
+3954,groin swelling,groin swelling: is your groin swelling on one side or both?, 1-3 months ago
+3955,groin swelling,groin swelling: is your groin swelling on one side or both?, over 3 months ago
+3956,groin swelling,groin swelling: is your groin swelling on one side or both?, years ago
+3957,groin swelling,groin swelling: do you have pain or discomfort in your abdomen?, one side
+3958,groin swelling,groin swelling: do you have pain or discomfort in your abdomen?, both sides
+3959,groin swelling,groin swelling: do you have pain or discomfort in your abdomen?, i am not sure
+3960,groin swelling,groin swelling: which side is bothering you most?, yes
+3961,groin swelling,groin swelling: which side is bothering you most?, no 
+3962,groin swelling,groin swelling: how uncomfortable do you feel?, right
+3963,groin swelling,groin swelling: how uncomfortable do you feel?, left
+3964,groin swelling,groin swelling: how uncomfortable do you feel?, both sides
+3965,groin swelling,groin swelling: how uncomfortable do you feel?, i am not sure 
+3966,groin swelling,groin swelling: what makes it worse?, fairly mild
+3967,groin swelling,groin swelling: what makes it worse?, intense
+3968,groin swelling,groin swelling: what makes it worse?, it wakes me at night
+3969,groin swelling,groin swelling: what makes it worse?, i am not sure 
+3970,groin swelling,groin swelling: do any of these describe it?, changing positions
+3971,groin swelling,groin swelling: do any of these describe it?, cough
+3972,groin swelling,groin swelling: do any of these describe it?, deep breathing
+3973,groin swelling,groin swelling: do any of these describe it?, eating
+3974,groin swelling,groin swelling: do any of these describe it?, exposure to cold
+3975,groin swelling,groin swelling: do any of these describe it?, going to the bathroom
+3976,groin swelling,groin swelling: do any of these describe it?, hunger
+3977,groin swelling,groin swelling: do any of these describe it?, lying down
+3978,groin swelling,groin swelling: do any of these describe it?, physical activity
+3979,groin swelling,groin swelling: do any of these describe it?, pressing on area
+3980,groin swelling,groin swelling: do any of these describe it?, sitting down
+3981,groin swelling,groin swelling: do any of these describe it?, standing
+3982,groin swelling,groin swelling: do any of these describe it?, walking
+3983,groin swelling,groin swelling: do any of these describe it?, none of these   
+3984,groin swelling,groin swelling: are your stools loose or watery?, belt like
+3985,groin swelling,groin swelling: are your stools loose or watery?, burning
+3986,groin swelling,groin swelling: are your stools loose or watery?, colicky
+3987,groin swelling,groin swelling: are your stools loose or watery?, crampy
+3988,groin swelling,groin swelling: are your stools loose or watery?, pinpoint
+3989,groin swelling,groin swelling: are your stools loose or watery?, pressuring
+3990,groin swelling,groin swelling: are your stools loose or watery?, sharp
+3991,groin swelling,groin swelling: are your stools loose or watery?, stabbing
+3992,groin swelling,groin swelling: are your stools loose or watery?, vague
+3993,groin swelling,groin swelling: are your stools loose or watery?, none of these 
+3994,groin swelling,groin swelling: are you constipated or have difficultymoving your bowels?, yes
+3995,groin swelling,groin swelling: are you constipated or have difficultymoving your bowels?, no 
+3996,groin swelling,groin swelling: do you have burning sensation or pain during or after peeing?, yes
+3997,groin swelling,groin swelling: do you have burning sensation or pain during or after peeing?, no
+3998,groin swelling,groin swelling: how severe would you say it is?, yes
+3999,groin swelling,groin swelling: how severe would you say it is?, no  
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+4018,groin swelling,"groin swelling: do you have pain, pressure or discomfort in your chest?", insect bite
+4019,groin swelling,"groin swelling: do you have pain, pressure or discomfort in your chest?", calf swelling
+4020,groin swelling,"groin swelling: do you have pain, pressure or discomfort in your chest?", hand swelling
+4021,groin swelling,"groin swelling: do you have pain, pressure or discomfort in your chest?", none of these
+4022,groin swelling,groin swelling: do you have trouble breathing or catching your breath?, yes
+4023,groin swelling,groin swelling: do you have trouble breathing or catching your breath?, no  
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+4127,Goiter,"Goiter: does you heart race, flutter or skip beats while you're at rest?",Goiter
+4132,Goiter,"Goiter: is your arm quivering, trembling, or slightly shaking?", yes
+4133,Goiter,"Goiter: is your arm quivering, trembling, or slightly shaking?", no 
